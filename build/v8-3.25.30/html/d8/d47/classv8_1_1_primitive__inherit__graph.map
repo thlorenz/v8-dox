@@ -1,0 +1,11 @@
+<map id="Primitive" name="Primitive">
+<area shape="rect" id="node4" href="$d2/dac/classv8_1_1_boolean.html" title="Boolean" alt="" coords="5,230,75,255"/>
+<area shape="rect" id="node5" href="$d9/d29/classv8_1_1_number.html" title="Number" alt="" coords="99,230,167,255"/>
+<area shape="rect" id="node9" href="$d2/db3/classv8_1_1_string.html" title="String" alt="" coords="192,230,248,255"/>
+<area shape="rect" id="node10" href="$db/dde/classv8_1_1_symbol.html" title="Symbol" alt="" coords="272,230,337,255"/>
+<area shape="rect" id="node2" href="$dc/d0a/classv8_1_1_value.html" title="Value" alt="" coords="149,81,203,106"/>
+<area shape="rect" id="node3" href="$d1/d83/classv8_1_1_data.html" title="Data" alt="" coords="151,6,200,31"/>
+<area shape="rect" id="node6" href="$df/d84/classv8_1_1_integer.html" title="Integer" alt="" coords="102,305,164,330"/>
+<area shape="rect" id="node7" href="$de/da6/classv8_1_1_int32.html" title="Int32" alt="" coords="68,379,119,405"/>
+<area shape="rect" id="node8" href="$db/dfc/classv8_1_1_uint32.html" title="Uint32" alt="" coords="143,379,203,405"/>
+</map>

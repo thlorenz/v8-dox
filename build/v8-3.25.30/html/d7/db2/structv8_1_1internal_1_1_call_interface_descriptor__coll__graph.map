@@ -1,0 +1,6 @@
+<map id="CallInterfaceDescriptor" name="CallInterfaceDescriptor">
+<area shape="rect" id="node2" href="$d2/d67/classv8_1_1internal_1_1_representation.html" title="Representation" alt="" coords="4,83,115,109"/>
+<area shape="rect" id="node3" href="$d6/d0d/structv8_1_1internal_1_1_platform_call_interface_descriptor.html" title="PlatformCallInterfaceDescriptor" alt="" coords="139,83,345,109"/>
+<area shape="rect" id="node4" href="$dc/d02/structv8_1_1internal_1_1_register.html" title="Register" alt="" coords="415,83,485,109"/>
+<area shape="rect" id="node5" href="$db/d16/structv8_1_1internal_1_1_c_p_u_register.html" title="CPURegister" alt="" coords="401,6,500,31"/>
+</map>

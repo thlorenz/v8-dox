@@ -1,0 +1,10 @@
+<map id="IC" name="IC">
+<area shape="rect" id="node2" href="$dd/d95/classv8_1_1internal_1_1_binary_op_i_c.html" title="BinaryOpIC" alt="" coords="4,81,93,106"/>
+<area shape="rect" id="node3" href="$df/d6c/classv8_1_1internal_1_1_compare_i_c.html" title="CompareIC" alt="" coords="118,81,207,106"/>
+<area shape="rect" id="node4" href="$dc/d1b/classv8_1_1internal_1_1_compare_nil_i_c.html" title="CompareNilIC" alt="" coords="231,81,336,106"/>
+<area shape="rect" id="node5" href="$d5/de3/classv8_1_1internal_1_1_load_i_c.html" title="LoadIC" alt="" coords="361,81,425,106"/>
+<area shape="rect" id="node7" href="$d0/d03/classv8_1_1internal_1_1_store_i_c.html" title="StoreIC" alt="" coords="449,81,515,106"/>
+<area shape="rect" id="node9" href="$d8/df9/classv8_1_1internal_1_1_to_boolean_i_c.html" title="ToBooleanIC" alt="" coords="540,81,637,106"/>
+<area shape="rect" id="node6" href="$d4/dfb/classv8_1_1internal_1_1_keyed_load_i_c.html" title="KeyedLoadIC" alt="" coords="324,155,425,181"/>
+<area shape="rect" id="node8" href="$d3/d9a/classv8_1_1internal_1_1_keyed_store_i_c.html" title="KeyedStoreIC" alt="" coords="449,155,553,181"/>
+</map>

@@ -1,0 +1,28 @@
+var atomicops__internals__arm64__gcc_8h =
+[
+    [ "Acquire_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#a399f1d2e4b6e3258c51cf5b3c8982598", null ],
+    [ "Acquire_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#a6069de3701c5b70f31f59313f25a737e", null ],
+    [ "Acquire_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#af5c61a0416c41ffad86c0f88d259aff8", null ],
+    [ "Acquire_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#aaaebd1d90cdb6adfbb9479d06b51d086", null ],
+    [ "Acquire_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#afc68313141b486c60a21b2045acea902", null ],
+    [ "Acquire_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#a56307842f6c5ef421b9d5bfc67090d95", null ],
+    [ "Barrier_AtomicIncrement", "db/d11/atomicops__internals__arm64__gcc_8h.html#ad79514e8ecd776445eca569256801441", null ],
+    [ "Barrier_AtomicIncrement", "db/d11/atomicops__internals__arm64__gcc_8h.html#a5b31827d7a777d6416dbbc70256b49e2", null ],
+    [ "MemoryBarrier", "db/d11/atomicops__internals__arm64__gcc_8h.html#a8227003ebda7d9b733c44e106e7ab607", null ],
+    [ "NoBarrier_AtomicExchange", "db/d11/atomicops__internals__arm64__gcc_8h.html#ab2ed75f93c0753f2ed28c45e218b1b00", null ],
+    [ "NoBarrier_AtomicExchange", "db/d11/atomicops__internals__arm64__gcc_8h.html#a7e738b265e373afbc8d3d96607a21fe4", null ],
+    [ "NoBarrier_AtomicIncrement", "db/d11/atomicops__internals__arm64__gcc_8h.html#a6848f74652d4699284da0ef2b9bb55d4", null ],
+    [ "NoBarrier_AtomicIncrement", "db/d11/atomicops__internals__arm64__gcc_8h.html#a6c0c9b0ff154c245032cb0cb473c2f38", null ],
+    [ "NoBarrier_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#a2a1795d0001ccd73a2246c6007ab79c2", null ],
+    [ "NoBarrier_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#aa5eebd9709e5c8b16d34c6bf61061e61", null ],
+    [ "NoBarrier_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#a30ce3d55faca8dccb17c6256e4ff1f1a", null ],
+    [ "NoBarrier_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#a309841fb7bf8cdd856845ae3e55ae02f", null ],
+    [ "NoBarrier_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#ac0f470b7b2708abf0c2b3a57a53fb514", null ],
+    [ "NoBarrier_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#a75ec728fe2676d5145a3b7767c0721ed", null ],
+    [ "Release_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#a64cfdbc7563ec95e701f62dd820ea4ea", null ],
+    [ "Release_CompareAndSwap", "db/d11/atomicops__internals__arm64__gcc_8h.html#a8847f45352ace63fd316b4b84ffd268a", null ],
+    [ "Release_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#abfe398c3ff7eda61cef556bd81551102", null ],
+    [ "Release_Load", "db/d11/atomicops__internals__arm64__gcc_8h.html#ad0f5b72e9780aecab077160f96535ff8", null ],
+    [ "Release_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#a731e905899b30b6d6877147de39a6b39", null ],
+    [ "Release_Store", "db/d11/atomicops__internals__arm64__gcc_8h.html#a1a3c785189582772c88e29cbe61b94c1", null ]
+];

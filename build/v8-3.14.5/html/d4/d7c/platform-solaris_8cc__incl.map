@@ -1,0 +1,37 @@
+<map id="src/platform&#45;solaris.cc" name="src/platform&#45;solaris.cc">
+<area shape="rect" id="node16" href="$df/d6a/src_2v8_8h.html" title="v8.h" alt="" coords="1409,81,1455,106"/>
+<area shape="rect" id="node26" href="$de/d03/platform_8h.html" title="platform.h" alt="" coords="1440,318,1520,343"/>
+<area shape="rect" id="node46" href="$de/d20/platform-posix_8h.html" title="platform&#45;posix.h" alt="" coords="1698,81,1813,106"/>
+<area shape="rect" id="node47" href="$dc/d4d/v8threads_8h.html" title="v8threads.h" alt="" coords="1838,81,1929,106"/>
+<area shape="rect" id="node48" href="$dd/dd6/vm-state-inl_8h.html" title="vm&#45;state&#45;inl.h" alt="" coords="1845,318,1947,343"/>
+<area shape="rect" id="node17" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="1639,542,1741,567"/>
+<area shape="rect" id="node19" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="948,393,1036,418"/>
+<area shape="rect" id="node22" href="$de/db4/v8checks_8h.html" title="v8checks.h" alt="" coords="836,393,924,418"/>
+<area shape="rect" id="node23" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="1336,467,1424,493"/>
+<area shape="rect" id="node24" href="$d8/dd3/v8utils_8h.html" title="v8utils.h" alt="" coords="1445,243,1515,269"/>
+<area shape="rect" id="node30" href="$d9/da0/flags_8h.html" title="flags.h" alt="" coords="654,162,713,187"/>
+<area shape="rect" id="node32" href="$d4/dfe/objects-inl_8h.html" title="objects&#45;inl.h" alt="" coords="738,162,829,187"/>
+<area shape="rect" id="node38" href="$d7/d8a/spaces-inl_8h.html" title="spaces&#45;inl.h" alt="" coords="906,162,997,187"/>
+<area shape="rect" id="node39" href="$d8/d41/heap-inl_8h.html" title="heap&#45;inl.h" alt="" coords="1084,243,1163,269"/>
+<area shape="rect" id="node40" href="$dd/dbc/incremental-marking-inl_8h.html" title="incremental&#45;marking\l&#45;inl.h" alt="" coords="1073,155,1215,194"/>
+<area shape="rect" id="node41" href="$d7/d5d/mark-compact-inl_8h.html" title="mark&#45;compact&#45;inl.h" alt="" coords="1239,162,1373,187"/>
+<area shape="rect" id="node42" href="$d3/da5/log-inl_8h.html" title="log&#45;inl.h" alt="" coords="1398,162,1465,187"/>
+<area shape="rect" id="node43" href="$df/df5/cpu-profiler-inl_8h.html" title="cpu&#45;profiler&#45;inl.h" alt="" coords="1490,162,1605,187"/>
+<area shape="rect" id="node44" href="$d4/dcd/handles-inl_8h.html" title="handles&#45;inl.h" alt="" coords="1630,162,1727,187"/>
+<area shape="rect" id="node45" href="$dd/d77/zone-inl_8h.html" title="zone&#45;inl.h" alt="" coords="1286,318,1364,343"/>
+<area shape="rect" id="node18" href="$da/dc3/v8stdint_8h.html" title="v8stdint.h" alt="" coords="1234,617,1312,642"/>
+<area shape="rect" id="node20" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="1236,542,1311,567"/>
+<area shape="rect" id="node21" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="934,467,1007,493"/>
+<area shape="rect" id="node25" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="1291,393,1347,418"/>
+<area shape="rect" id="node27" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="1644,467,1736,493"/>
+<area shape="rect" id="node28" href="$da/dba/lazy-instance_8h.html" title="lazy&#45;instance.h" alt="" coords="1370,393,1480,418"/>
+<area shape="rect" id="node29" href="$dc/ddd/platform-tls_8h.html" title="platform&#45;tls.h" alt="" coords="1504,393,1601,418"/>
+<area shape="rect" id="node31" href="$d1/d2e/flag-definitions_8h.html" title="flag&#45;definitions.h" alt="" coords="625,243,743,269"/>
+<area shape="rect" id="node33" href="$de/d98/elements_8h.html" title="elements.h" alt="" coords="923,243,1009,269"/>
+<area shape="rect" id="node34" href="$df/d91/objects_8h.html" title="objects.h" alt="" coords="1021,318,1096,343"/>
+<area shape="rect" id="node35" href="$da/ddb/heap_8h.html" title="heap.h" alt="" coords="936,318,997,343"/>
+<area shape="rect" id="node36" href="$d3/df0/contexts_8h.html" title="contexts.h" alt="" coords="818,243,899,269"/>
+<area shape="rect" id="node37" href="$dc/d6f/conversions-inl_8h.html" title="conversions&#45;inl.h" alt="" coords="1187,243,1308,269"/>
+<area shape="rect" id="node49" href="$d7/d94/vm-state_8h.html" title="vm&#45;state.h" alt="" coords="1728,393,1811,418"/>
+<area shape="rect" id="node50" href="$d4/dac/runtime-profiler_8h.html" title="runtime&#45;profiler.h" alt="" coords="1835,393,1956,418"/>
+</map>

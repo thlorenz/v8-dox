@@ -1,0 +1,11 @@
+<map id="StackFrame" name="StackFrame">
+<area shape="rect" id="node2" href="$d6/db7/classv8_1_1internal_1_1_entry_frame.html" title="EntryFrame" alt="" coords="33,81,124,106"/>
+<area shape="rect" id="node4" href="$df/dda/classv8_1_1internal_1_1_exit_frame.html" title="ExitFrame" alt="" coords="148,81,229,106"/>
+<area shape="rect" id="node5" href="$d5/db1/classv8_1_1internal_1_1_standard_frame.html" title="StandardFrame" alt="" coords="255,81,368,106"/>
+<area shape="rect" id="node3" href="$df/d1d/classv8_1_1internal_1_1_entry_construct_frame.html" title="EntryConstructFrame" alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node6" href="$d8/d05/classv8_1_1internal_1_1_internal_frame.html" title="InternalFrame" alt="" coords="219,155,323,181"/>
+<area shape="rect" id="node8" href="$da/d23/classv8_1_1internal_1_1_java_script_frame.html" title="JavaScriptFrame" alt="" coords="363,155,484,181"/>
+<area shape="rect" id="node7" href="$da/d62/classv8_1_1internal_1_1_construct_frame.html" title="ConstructFrame" alt="" coords="198,230,313,255"/>
+<area shape="rect" id="node9" href="$d6/dbb/classv8_1_1internal_1_1_arguments_adaptor_frame.html" title="ArgumentsAdaptorFrame" alt="" coords="338,230,509,255"/>
+<area shape="rect" id="node10" href="$db/da4/classv8_1_1internal_1_1_optimized_frame.html" title="OptimizedFrame" alt="" coords="533,230,652,255"/>
+</map>

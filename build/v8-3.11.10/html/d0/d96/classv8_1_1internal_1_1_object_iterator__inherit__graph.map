@@ -1,0 +1,6 @@
+<map id="ObjectIterator" name="ObjectIterator">
+<area shape="rect" id="node3" href="$d6/d37/classv8_1_1internal_1_1_heap_object_iterator.html" title="HeapObjectIterator" alt="" coords="5,155,139,181"/>
+<area shape="rect" id="node4" href="$d8/d65/classv8_1_1internal_1_1_large_object_iterator.html" title="LargeObjectIterator" alt="" coords="163,155,299,181"/>
+<area shape="rect" id="node5" href="$d3/df3/classv8_1_1internal_1_1_semi_space_iterator.html" title="SemiSpaceIterator" alt="" coords="322,155,453,181"/>
+<area shape="rect" id="node2" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="193,6,268,31"/>
+</map>

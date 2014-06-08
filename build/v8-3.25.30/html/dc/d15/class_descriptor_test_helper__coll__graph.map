@@ -1,0 +1,7 @@
+<map id="DescriptorTestHelper" name="DescriptorTestHelper">
+<area shape="rect" id="node2" href="$d6/dec/classv8_1_1internal_1_1_smart_pointer.html" title="SmartPointer\&lt; AlignedArray \&gt;" alt="" coords="237,25,435,50"/>
+<area shape="rect" id="node3" href="$d3/d8e/classv8_1_1internal_1_1_smart_pointer_base.html" title="SmartPointerBase\&lt; Object\lDeallocator\&lt; AlignedArray\l \&gt;, AlignedArray \&gt;" alt="" coords="6,5,186,57"/>
+<area shape="rect" id="node4" href="$d6/dec/classv8_1_1internal_1_1_smart_pointer.html" title="SmartPointer\&lt; HandleArray \&gt;" alt="" coords="238,81,434,106"/>
+<area shape="rect" id="node5" href="$d3/d8e/classv8_1_1internal_1_1_smart_pointer_base.html" title="SmartPointerBase\&lt; Object\lDeallocator\&lt; HandleArray\l \&gt;, HandleArray \&gt;" alt="" coords="6,81,186,133"/>
+<area shape="rect" id="node6" href="$d5/dda/classv8_1_1_isolate.html" title="Isolate" alt="" coords="306,130,366,155"/>
+</map>

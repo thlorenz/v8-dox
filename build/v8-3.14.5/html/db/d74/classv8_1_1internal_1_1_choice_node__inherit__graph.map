@@ -1,0 +1,6 @@
+<map id="ChoiceNode" name="ChoiceNode">
+<area shape="rect" id="node4" href="$d1/d10/classv8_1_1internal_1_1_loop_choice_node.html" title="LoopChoiceNode" alt="" coords="4,230,128,255"/>
+<area shape="rect" id="node5" href="$de/dca/classv8_1_1internal_1_1_negative_lookahead_choice_node.html" title="NegativeLookaheadChoiceNode" alt="" coords="153,230,365,255"/>
+<area shape="rect" id="node2" href="$d6/d12/classv8_1_1internal_1_1_reg_exp_node.html" title="RegExpNode" alt="" coords="112,81,212,106"/>
+<area shape="rect" id="node3" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="118,6,207,31"/>
+</map>

@@ -1,0 +1,28 @@
+var platform_8h =
+[
+    [ "OS", "de/d32/classv8_1_1internal_1_1_o_s.html", "de/d32/classv8_1_1internal_1_1_o_s" ],
+    [ "StackFrame", "d9/d3e/structv8_1_1internal_1_1_o_s_1_1_stack_frame.html", "d9/d3e/structv8_1_1internal_1_1_o_s_1_1_stack_frame" ],
+    [ "MemoryMappedFile", "de/d00/classv8_1_1internal_1_1_o_s_1_1_memory_mapped_file.html", "de/d00/classv8_1_1internal_1_1_o_s_1_1_memory_mapped_file" ],
+    [ "VirtualMemory", "dd/d12/classv8_1_1internal_1_1_virtual_memory.html", "dd/d12/classv8_1_1internal_1_1_virtual_memory" ],
+    [ "Thread", "db/d61/classv8_1_1internal_1_1_thread.html", "db/d61/classv8_1_1internal_1_1_thread" ],
+    [ "Options", "da/d4a/classv8_1_1internal_1_1_thread_1_1_options.html", "da/d4a/classv8_1_1internal_1_1_thread_1_1_options" ],
+    [ "Mutex", "de/dfb/classv8_1_1internal_1_1_mutex.html", "de/dfb/classv8_1_1internal_1_1_mutex" ],
+    [ "CreateMutexTrait", "dc/db6/structv8_1_1internal_1_1_create_mutex_trait.html", null ],
+    [ "ScopedLock", "de/d62/classv8_1_1internal_1_1_scoped_lock.html", "de/d62/classv8_1_1internal_1_1_scoped_lock" ],
+    [ "Semaphore", "dd/d6f/classv8_1_1internal_1_1_semaphore.html", "dd/d6f/classv8_1_1internal_1_1_semaphore" ],
+    [ "CreateSemaphoreTrait", "d6/df6/structv8_1_1internal_1_1_create_semaphore_trait.html", null ],
+    [ "LazySemaphore", "d9/d39/structv8_1_1internal_1_1_lazy_semaphore.html", "d9/d39/structv8_1_1internal_1_1_lazy_semaphore" ],
+    [ "Socket", "d9/d18/classv8_1_1internal_1_1_socket.html", "d9/d18/classv8_1_1internal_1_1_socket" ],
+    [ "TickSample", "d6/d4d/classv8_1_1internal_1_1_tick_sample.html", "d6/d4d/classv8_1_1internal_1_1_tick_sample" ],
+    [ "Sampler", "db/d4d/classv8_1_1internal_1_1_sampler.html", "db/d4d/classv8_1_1internal_1_1_sampler" ],
+    [ "LAZY_MUTEX_INITIALIZER", "de/d03/platform_8h.html#ab9eda31a32ad469c6c00d977fe45b37f", null ],
+    [ "LAZY_SEMAPHORE_INITIALIZER", "de/d03/platform_8h.html#ad185dceb502a35cf71dbdf2d7c9eaffc", null ],
+    [ "LazyMutex", "de/d03/platform_8h.html#adc45538243c57ea8bf637b94af7497bb", null ],
+    [ "ceiling", "de/d03/platform_8h.html#a4888dc6b78982eb18867921319429cb6", null ],
+    [ "fast_cos", "de/d03/platform_8h.html#a43a6d6d7f0b60732fa68461fffb7c5ae", null ],
+    [ "fast_log", "de/d03/platform_8h.html#aa9e4ad2688dbac62957b8d908a58bff7", null ],
+    [ "fast_sin", "de/d03/platform_8h.html#adf85465dce94a6c054bcad4cdf569bde", null ],
+    [ "fast_sqrt", "de/d03/platform_8h.html#a2b754f144b4c7ab9afbd2370ba0958c6", null ],
+    [ "fast_tan", "de/d03/platform_8h.html#a71dc8b9f3427080328fc610d5911443f", null ],
+    [ "modulo", "de/d03/platform_8h.html#a9ed88e41f6e2cfe2e355874acab98c85", null ]
+];

@@ -1,0 +1,11 @@
+<map id="String::ExternalAsciiStringResource" name="String::ExternalAsciiStringResource">
+<area shape="rect" id="node3" href="$d3/d06/class_ascii_resource.html" title="AsciiResource" alt="" coords="528,5,635,30"/>
+<area shape="rect" id="node4" href="$d3/db2/class_ascii_vector_resource.html" title="AsciiVectorResource" alt="" coords="509,54,654,79"/>
+<area shape="rect" id="node5" href="$d0/db5/class_script_resource.html" title="ScriptResource" alt="" coords="525,103,638,129"/>
+<area shape="rect" id="node6" href="$d6/d32/classv8_1_1_binary_resource.html" title="BinaryResource" alt="" coords="523,153,639,178"/>
+<area shape="rect" id="node7" href="$dd/d49/classv8_1_1_external_ascii_string_resource_impl.html" title="ExternalAsciiStringResourceImpl" alt="" coords="474,202,689,227"/>
+<area shape="rect" id="node8" href="$da/d49/classv8_1_1internal_1_1_ascii_string_adapter.html" title="AsciiStringAdapter" alt="" coords="516,251,647,277"/>
+<area shape="rect" id="node9" href="$d8/dd5/classv8_1_1internal_1_1_memory_mapped_external_resource.html" title="MemoryMappedExternalResource" alt="" coords="470,301,693,326"/>
+<area shape="rect" id="node10" href="$dc/d4a/classv8_1_1internal_1_1_natives_external_string_resource.html" title="NativesExternalStringResource" alt="" coords="478,350,685,375"/>
+<area shape="rect" id="node2" href="$d4/d54/classv8_1_1_string_1_1_external_string_resource_base.html" title="ExternalStringResourceBase" alt="" coords="5,129,198,154"/>
+</map>

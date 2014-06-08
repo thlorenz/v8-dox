@@ -1,0 +1,8 @@
+<map id="SeqString" name="SeqString">
+<area shape="rect" id="node7" href="$d2/dd7/classv8_1_1internal_1_1_seq_one_byte_string.html" title="SeqOneByteString" alt="" coords="5,454,136,479"/>
+<area shape="rect" id="node8" href="$d9/d52/classv8_1_1internal_1_1_seq_two_byte_string.html" title="SeqTwoByteString" alt="" coords="161,454,292,479"/>
+<area shape="rect" id="node2" href="$db/db6/classv8_1_1internal_1_1_string.html" title="String" alt="" coords="120,305,176,330"/>
+<area shape="rect" id="node3" href="$d1/d40/classv8_1_1internal_1_1_name.html" title="Name" alt="" coords="120,230,176,255"/>
+<area shape="rect" id="node4" href="$d7/da3/classv8_1_1internal_1_1_heap_object.html" title="HeapObject" alt="" coords="102,155,193,181"/>
+<area shape="rect" id="node5" href="$d8/df0/classv8_1_1internal_1_1_object.html" title="Object" alt="" coords="118,81,177,106"/>
+</map>

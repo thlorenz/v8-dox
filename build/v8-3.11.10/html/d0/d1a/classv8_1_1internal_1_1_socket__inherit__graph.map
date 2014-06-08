@@ -1,0 +1,4 @@
+<map id="Socket" name="Socket">
+<area shape="rect" id="node2" href="$d7/d35/classv8_1_1internal_1_1_p_o_s_i_x_socket.html" title="POSIXSocket" alt="" coords="5,81,107,106"/>
+<area shape="rect" id="node3" href="$db/dd9/classv8_1_1internal_1_1_win32_socket.html" title="Win32Socket" alt="" coords="131,81,231,106"/>
+</map>

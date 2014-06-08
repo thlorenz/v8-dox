@@ -1,0 +1,62 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; bool,\l shift, size, uint32_t \&gt;" alt="" coords="5,969,152,1007"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 0, 1 \&gt;" alt="" coords="252,89,396,114"/>
+<area shape="rect" id="node6" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 1, 1 \&gt;" alt="" coords="252,173,396,198"/>
+<area shape="rect" id="node9" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 10, 1 \&gt;" alt="" coords="248,222,400,247"/>
+<area shape="rect" id="node10" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 11, 1 \&gt;" alt="" coords="249,271,399,297"/>
+<area shape="rect" id="node11" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 12, 1 \&gt;" alt="" coords="248,321,400,346"/>
+<area shape="rect" id="node12" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 13, 1 \&gt;" alt="" coords="248,370,400,395"/>
+<area shape="rect" id="node13" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 16, 1 \&gt;" alt="" coords="248,419,400,445"/>
+<area shape="rect" id="node14" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 2 *kBits\lPerRegisterNumber, 1 \&gt;" alt="" coords="242,469,406,507"/>
+<area shape="rect" id="node15" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 2, 1 \&gt;" alt="" coords="252,531,396,557"/>
+<area shape="rect" id="node17" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 20, 1 \&gt;" alt="" coords="248,581,400,606"/>
+<area shape="rect" id="node19" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 21, 1 \&gt;" alt="" coords="248,630,400,655"/>
+<area shape="rect" id="node21" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 22, 1 \&gt;" alt="" coords="248,679,400,705"/>
+<area shape="rect" id="node23" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 23, 1 \&gt;" alt="" coords="248,729,400,754"/>
+<area shape="rect" id="node25" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 24, 1 \&gt;" alt="" coords="248,778,400,803"/>
+<area shape="rect" id="node27" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 25, 1 \&gt;" alt="" coords="248,827,400,853"/>
+<area shape="rect" id="node29" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 26, 1 \&gt;" alt="" coords="248,877,400,902"/>
+<area shape="rect" id="node31" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 27, 1 \&gt;" alt="" coords="248,926,400,951"/>
+<area shape="rect" id="node33" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 28, 1 \&gt;" alt="" coords="248,975,400,1001"/>
+<area shape="rect" id="node35" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 29, 1 \&gt;" alt="" coords="248,1025,400,1050"/>
+<area shape="rect" id="node38" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 3, 1 \&gt;" alt="" coords="252,1074,396,1099"/>
+<area shape="rect" id="node39" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 30, 1 \&gt;" alt="" coords="248,1123,400,1149"/>
+<area shape="rect" id="node41" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 31, 1 \&gt;" alt="" coords="248,1173,400,1198"/>
+<area shape="rect" id="node43" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 4, 1 \&gt;" alt="" coords="252,1222,396,1247"/>
+<area shape="rect" id="node44" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 5, 1 \&gt;" alt="" coords="252,1271,396,1297"/>
+<area shape="rect" id="node45" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 6, 1 \&gt;" alt="" coords="252,1321,396,1346"/>
+<area shape="rect" id="node46" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 7, 1 \&gt;" alt="" coords="252,1370,396,1395"/>
+<area shape="rect" id="node47" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 8, 1 \&gt;" alt="" coords="252,1419,396,1445"/>
+<area shape="rect" id="node48" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, 9, 1 \&gt;" alt="" coords="252,1469,396,1494"/>
+<area shape="rect" id="node49" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kDeoptIndex\lBits+kArgumentsFieldBits,\l kSaveDoublesFieldBits \&gt;" alt="" coords="232,1518,416,1570"/>
+<area shape="rect" id="node51" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kHasFunction\lCacheFirstBit, kHasFunctionCache\lBitCount \&gt;" alt="" coords="210,1594,438,1646"/>
+<area shape="rect" id="node53" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kIsCrankshafted\lBit+1+29, 1 \&gt;" alt="" coords="221,1670,427,1709"/>
+<area shape="rect" id="node55" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kIsCrankshafted\lBit, 1 \&gt;" alt="" coords="221,1733,427,1771"/>
+<area shape="rect" id="node57" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kMarkedFor\lDeoptimizationFirstBit,\l kMarkedForDeoptimizationBitCount \&gt;" alt="" coords="201,1795,447,1847"/>
+<area shape="rect" id="node59" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kStartIs\lDehoisted, kBitsForIsDehoisted \&gt;" alt="" coords="214,1871,434,1910"/>
+<area shape="rect" id="node60" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; bool, kStubMinor\lKeyBits&#45;1, 1 \&gt;" alt="" coords="235,1934,413,1973"/>
+<area shape="rect" id="node3" href="$d8/d6b/classv8_1_1internal_1_1_allocate_double_align_flag.html" title="AllocateDoubleAlignFlag" alt="" coords="542,5,709,30"/>
+<area shape="rect" id="node4" href="$d9/de8/classv8_1_1internal_1_1_code_1_1_full_code_flags_has_deoptimization_support_field.html" title="Code::FullCodeFlagsHasDeoptimization\lSupportField" alt="" coords="496,54,755,93"/>
+<area shape="rect" id="node5" href="$d6/da7/classv8_1_1internal_1_1_declare_globals_eval_flag.html" title="DeclareGlobalsEvalFlag" alt="" coords="543,117,708,142"/>
+<area shape="rect" id="node7" href="$dd/dad/classv8_1_1internal_1_1_code_1_1_full_code_flags_has_debug_break_slots_field.html" title="Code::FullCodeFlagsHasDebug\lBreakSlotsField" alt="" coords="521,166,730,205"/>
+<area shape="rect" id="node8" href="$d8/deb/classv8_1_1internal_1_1_declare_globals_native_flag.html" title="DeclareGlobalsNativeFlag" alt="" coords="537,229,713,254"/>
+<area shape="rect" id="node16" href="$d2/da9/classv8_1_1internal_1_1_code_1_1_full_code_flags_is_compiled_optimizable.html" title="Code::FullCodeFlagsIsCompiled\lOptimizable" alt="" coords="519,518,732,557"/>
+<area shape="rect" id="node18" href="$d7/d70/classv8_1_1internal_1_1_map_1_1_is_shared.html" title="Map::IsShared" alt="" coords="571,581,679,606"/>
+<area shape="rect" id="node20" href="$d9/d64/classv8_1_1internal_1_1_map_1_1_function_with_prototype.html" title="Map::FunctionWithPrototype" alt="" coords="531,630,720,655"/>
+<area shape="rect" id="node22" href="$d6/d3f/classv8_1_1internal_1_1_map_1_1_dictionary_map.html" title="Map::DictionaryMap" alt="" coords="555,679,695,705"/>
+<area shape="rect" id="node24" href="$d9/dc3/classv8_1_1internal_1_1_map_1_1_owns_descriptors.html" title="Map::OwnsDescriptors" alt="" coords="547,729,703,754"/>
+<area shape="rect" id="node26" href="$d7/d1e/classv8_1_1internal_1_1_map_1_1_has_instance_call_handler.html" title="Map::HasInstanceCallHandler" alt="" coords="526,778,725,803"/>
+<area shape="rect" id="node28" href="$d0/d1b/classv8_1_1internal_1_1_map_1_1_deprecated.html" title="Map::Deprecated" alt="" coords="564,827,687,853"/>
+<area shape="rect" id="node30" href="$d6/db8/classv8_1_1internal_1_1_map_1_1_is_frozen.html" title="Map::IsFrozen" alt="" coords="572,877,679,902"/>
+<area shape="rect" id="node32" href="$d3/dbf/classv8_1_1internal_1_1_map_1_1_is_unstable.html" title="Map::IsUnstable" alt="" coords="566,926,684,951"/>
+<area shape="rect" id="node34" href="$d0/d6c/classv8_1_1internal_1_1_map_1_1_is_migration_target.html" title="Map::IsMigrationTarget" alt="" coords="547,975,704,1001"/>
+<area shape="rect" id="node36" href="$d0/d90/classv8_1_1internal_1_1_allocation_site_1_1_deopt_dependent_code_bit.html" title="AllocationSite::DeoptDependent\lCodeBit" alt="" coords="520,1025,731,1063"/>
+<area shape="rect" id="node37" href="$d1/d3b/classv8_1_1internal_1_1_allocation_site_1_1_do_not_inline_bit.html" title="AllocationSite::DoNotInlineBit" alt="" coords="528,1087,723,1113"/>
+<area shape="rect" id="node40" href="$d2/d70/classv8_1_1internal_1_1_v8___f_i_n_a_l_1_1_is_arguments_field.html" title="V8_FINAL\&lt; kOperandKind,\l kNumCachedOperands \&gt;\l::IsArgumentsField" alt="" coords="534,1137,717,1189"/>
+<area shape="rect" id="node42" href="$d0/dd8/classv8_1_1internal_1_1_v8___f_i_n_a_l_1_1_is_duplicate_field.html" title="V8_FINAL\&lt; kOperandKind,\l kNumCachedOperands \&gt;\l::IsDuplicateField" alt="" coords="534,1213,717,1265"/>
+<area shape="rect" id="node50" href="$d3/d8a/classv8_1_1internal_1_1_b_a_s_e___e_m_b_e_d_d_e_d_1_1_save_doubles_field.html" title="BASE_EMBEDDED\&lt; Visitor\l \&gt;::SaveDoublesField" alt="" coords="531,1525,719,1563"/>
+<area shape="rect" id="node52" href="$d4/d9d/classv8_1_1internal_1_1_code_1_1_has_function_cache_field.html" title="Code::HasFunctionCacheField" alt="" coords="524,1607,727,1633"/>
+<area shape="rect" id="node54" href="$dc/dd6/classv8_1_1internal_1_1_code_1_1_back_edges_patched_for_o_s_r_field.html" title="Code::BackEdgesPatchedFor\lOSRField" alt="" coords="527,1670,724,1709"/>
+<area shape="rect" id="node56" href="$dc/d49/classv8_1_1internal_1_1_code_1_1_is_crankshafted_field.html" title="Code::IsCrankshaftedField" alt="" coords="536,1739,715,1765"/>
+<area shape="rect" id="node58" href="$d3/dd5/classv8_1_1internal_1_1_code_1_1_marked_for_deoptimization_field.html" title="Code::MarkedForDeoptimization\lField" alt="" coords="519,1802,732,1841"/>
+</map>

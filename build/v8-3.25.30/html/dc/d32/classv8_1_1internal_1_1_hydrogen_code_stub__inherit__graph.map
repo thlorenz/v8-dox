@@ -1,0 +1,31 @@
+<map id="HydrogenCodeStub" name="HydrogenCodeStub">
+<area shape="rect" id="node3" href="$d6/d79/classv8_1_1internal_1_1_array_constructor_stub_base.html" title="ArrayConstructorStubBase" alt="" coords="342,55,522,81"/>
+<area shape="rect" id="node7" href="$d4/d18/classv8_1_1internal_1_1_binary_op_i_c_stub.html" title="BinaryOpICStub" alt="" coords="373,105,491,130"/>
+<area shape="rect" id="node8" href="$d5/d9b/classv8_1_1internal_1_1_v8___f_i_n_a_l.html" title="V8_FINAL\&lt; kOperandKind,\l kNumCachedOperands \&gt;" alt="" coords="635,185,818,223"/>
+<area shape="rect" id="node9" href="$d8/dbd/classv8_1_1internal_1_1_compare_nil_i_c_stub.html" title="CompareNilICStub" alt="" coords="366,278,498,303"/>
+<area shape="rect" id="node10" href="$d6/d4a/classv8_1_1internal_1_1_create_allocation_site_stub.html" title="CreateAllocationSiteStub" alt="" coords="347,327,517,353"/>
+<area shape="rect" id="node11" href="$dc/dd0/classv8_1_1internal_1_1_elements_transition_and_store_stub.html" title="ElementsTransitionAndStoreStub" alt="" coords="323,377,541,402"/>
+<area shape="rect" id="node12" href="$de/dc8/classv8_1_1internal_1_1_fast_clone_shallow_array_stub.html" title="FastCloneShallowArrayStub" alt="" coords="338,426,526,451"/>
+<area shape="rect" id="node13" href="$dd/de5/classv8_1_1internal_1_1_fast_clone_shallow_object_stub.html" title="FastCloneShallowObjectStub" alt="" coords="335,475,529,501"/>
+<area shape="rect" id="node14" href="$d0/dfb/classv8_1_1internal_1_1_fast_new_closure_stub.html" title="FastNewClosureStub" alt="" coords="358,525,506,550"/>
+<area shape="rect" id="node15" href="$d9/d90/classv8_1_1internal_1_1_h_i_c_stub.html" title="HICStub" alt="" coords="396,574,468,599"/>
+<area shape="rect" id="node22" href="$d3/db6/classv8_1_1internal_1_1_internal_array_constructor_stub_base.html" title="InternalArrayConstructor\lStubBase" alt="" coords="349,623,515,662"/>
+<area shape="rect" id="node26" href="$dd/d71/classv8_1_1internal_1_1_keyed_load_dictionary_element_stub.html" title="KeyedLoadDictionaryElementStub" alt="" coords="320,686,544,711"/>
+<area shape="rect" id="node27" href="$d4/d22/classv8_1_1internal_1_1_keyed_load_fast_element_stub.html" title="KeyedLoadFastElementStub" alt="" coords="336,735,528,761"/>
+<area shape="rect" id="node28" href="$d9/d9b/classv8_1_1internal_1_1_keyed_store_fast_element_stub.html" title="KeyedStoreFastElementStub" alt="" coords="335,785,529,810"/>
+<area shape="rect" id="node29" href="$dd/d6f/classv8_1_1internal_1_1_to_boolean_stub.html" title="ToBooleanStub" alt="" coords="376,834,488,859"/>
+<area shape="rect" id="node30" href="$d8/ded/classv8_1_1internal_1_1_to_number_stub.html" title="ToNumberStub" alt="" coords="377,883,487,909"/>
+<area shape="rect" id="node31" href="$d1/d41/classv8_1_1internal_1_1_transition_elements_kind_stub.html" title="TransitionElementsKindStub" alt="" coords="337,933,527,958"/>
+<area shape="rect" id="node4" href="$d4/d43/classv8_1_1internal_1_1_array_n_arguments_constructor_stub.html" title="ArrayNArgumentsConstructorStub" alt="" coords="615,6,838,31"/>
+<area shape="rect" id="node5" href="$db/dd9/classv8_1_1internal_1_1_array_no_argument_constructor_stub.html" title="ArrayNoArgumentConstructorStub" alt="" coords="614,55,839,81"/>
+<area shape="rect" id="node6" href="$df/dd0/classv8_1_1internal_1_1_array_single_argument_constructor_stub.html" title="ArraySingleArgumentConstructorStub" alt="" coords="604,105,849,130"/>
+<area shape="rect" id="node16" href="$d4/dd2/classv8_1_1internal_1_1_handler_stub.html" title="HandlerStub" alt="" coords="679,553,774,578"/>
+<area shape="rect" id="node17" href="$de/d6b/classv8_1_1internal_1_1_load_field_stub.html" title="LoadFieldStub" alt="" coords="918,503,1026,529"/>
+<area shape="rect" id="node19" href="$d9/d51/classv8_1_1internal_1_1_store_global_stub.html" title="StoreGlobalStub" alt="" coords="912,553,1032,578"/>
+<area shape="rect" id="node20" href="$d8/da4/classv8_1_1internal_1_1_string_length_stub.html" title="StringLengthStub" alt="" coords="910,602,1034,627"/>
+<area shape="rect" id="node18" href="$d4/d68/classv8_1_1internal_1_1_keyed_load_field_stub.html" title="KeyedLoadFieldStub" alt="" coords="1091,503,1237,529"/>
+<area shape="rect" id="node21" href="$d7/d90/classv8_1_1internal_1_1_keyed_string_length_stub.html" title="KeyedStringLengthStub" alt="" coords="1083,602,1245,627"/>
+<area shape="rect" id="node23" href="$d2/d8a/classv8_1_1internal_1_1_internal_array_n_arguments_constructor_stub.html" title="InternalArrayNArgumentsConstructorStub" alt="" coords="593,602,861,627"/>
+<area shape="rect" id="node24" href="$d2/df2/classv8_1_1internal_1_1_internal_array_no_argument_constructor_stub.html" title="InternalArrayNoArgumentConstructorStub" alt="" coords="592,651,861,677"/>
+<area shape="rect" id="node25" href="$df/de0/classv8_1_1internal_1_1_internal_array_single_argument_constructor_stub.html" title="InternalArraySingleArgument\lConstructorStub" alt="" coords="630,701,823,739"/>
+</map>

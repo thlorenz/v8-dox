@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/dd4/class_declaration_context.html" title="DeclarationContext" alt="" coords="6,129,141,154"/>
+<area shape="rect" id="node2" href="$d6/d92/class_absent_in_prototype_context.html" title="AbsentInPrototypeContext" alt="" coords="198,5,375,30"/>
+<area shape="rect" id="node3" href="$d6/d5e/class_absent_property_context.html" title="AbsentPropertyContext" alt="" coords="207,54,366,79"/>
+<area shape="rect" id="node4" href="$df/d90/class_appearing_property_context.html" title="AppearingPropertyContext" alt="" coords="197,103,376,129"/>
+<area shape="rect" id="node5" href="$dd/d3e/class_exists_in_prototype_context.html" title="ExistsInPrototypeContext" alt="" coords="201,153,372,178"/>
+<area shape="rect" id="node6" href="$d1/ddf/class_present_property_context.html" title="PresentPropertyContext" alt="" coords="205,202,368,227"/>
+<area shape="rect" id="node7" href="$d5/d22/class_reappearing_property_context.html" title="ReappearingPropertyContext" alt="" coords="190,251,384,277"/>
+</map>

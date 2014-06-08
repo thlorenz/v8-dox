@@ -1,0 +1,9 @@
+<map id="HandlerStub" name="HandlerStub">
+<area shape="rect" id="node5" href="$de/d6b/classv8_1_1internal_1_1_load_field_stub.html" title="LoadFieldStub" alt="" coords="24,305,131,330"/>
+<area shape="rect" id="node7" href="$d9/d51/classv8_1_1internal_1_1_store_global_stub.html" title="StoreGlobalStub" alt="" coords="155,305,273,330"/>
+<area shape="rect" id="node8" href="$d8/da4/classv8_1_1internal_1_1_string_length_stub.html" title="StringLengthStub" alt="" coords="298,305,421,330"/>
+<area shape="rect" id="node2" href="$d9/d90/classv8_1_1internal_1_1_h_i_c_stub.html" title="HICStub" alt="" coords="179,155,249,181"/>
+<area shape="rect" id="node3" href="$d0/db0/classv8_1_1internal_1_1_hydrogen_code_stub.html" title="HydrogenCodeStub" alt="" coords="145,81,283,106"/>
+<area shape="rect" id="node6" href="$d4/d68/classv8_1_1internal_1_1_keyed_load_field_stub.html" title="KeyedLoadFieldStub" alt="" coords="5,379,149,405"/>
+<area shape="rect" id="node9" href="$d7/d90/classv8_1_1internal_1_1_keyed_string_length_stub.html" title="KeyedStringLengthStub" alt="" coords="279,379,440,405"/>
+</map>

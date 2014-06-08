@@ -1,0 +1,19 @@
+<map id="src/libplatform/worker&#45;thread.cc" name="src/libplatform/worker&#45;thread.cc">
+<area shape="rect" id="node2" href="$d6/dd8/worker-thread_8h.html" title="worker&#45;thread.h" alt="" coords="213,94,328,119"/>
+<area shape="rect" id="node14" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="414,393,487,418"/>
+<area shape="rect" id="node26" href="$dc/d9b/v8-platform_8h.html" title="../../include/v8&#45;platform.h" alt="" coords="639,94,805,119"/>
+<area shape="rect" id="node27" href="$da/dec/task-queue_8h.html" title="task&#45;queue.h" alt="" coords="436,169,533,194"/>
+<area shape="rect" id="node4" href="$d5/d87/globals_8h.html" title="../globals.h" alt="" coords="352,542,437,567"/>
+<area shape="rect" id="node10" href="$de/d03/platform_8h.html" title="../platform.h" alt="" coords="205,169,296,194"/>
+<area shape="rect" id="node5" href="$da/dc3/v8stdint_8h.html" title="../include/v8stdint.h" alt="" coords="407,617,541,642"/>
+<area shape="rect" id="node8" href="$d7/dfc/v8config_8h.html" title="v8config.h" alt="" coords="481,691,563,717"/>
+<area shape="rect" id="node12" href="$d0/df8/mutex_8h.html" title="platform/mutex.h" alt="" coords="425,243,545,269"/>
+<area shape="rect" id="node19" href="$d6/dc6/semaphore_8h.html" title="platform/semaphore.h" alt="" coords="250,243,400,269"/>
+<area shape="rect" id="node20" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="41,318,97,343"/>
+<area shape="rect" id="node25" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="310,318,399,343"/>
+<area shape="rect" id="node13" href="$da/dba/lazy-instance_8h.html" title="../lazy&#45;instance.h" alt="" coords="423,318,544,343"/>
+<area shape="rect" id="node16" href="$d5/da4/once_8h.html" title="once.h" alt="" coords="623,393,684,418"/>
+<area shape="rect" id="node17" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="613,467,705,493"/>
+<area shape="rect" id="node18" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="608,542,711,567"/>
+<area shape="rect" id="node24" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="259,467,348,493"/>
+</map>

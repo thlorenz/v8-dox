@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d00/classv8_1_1internal_1_1_o_s_1_1_memory_mapped_file.html" title="OS::MemoryMappedFile" alt="" coords="5,30,171,55"/>
+<area shape="rect" id="node2" href="$d0/dcd/classv8_1_1internal_1_1_posix_memory_mapped_file.html" title="PosixMemoryMappedFile" alt="" coords="222,5,394,30"/>
+<area shape="rect" id="node3" href="$de/db0/classv8_1_1internal_1_1_win32_memory_mapped_file.html" title="Win32MemoryMappedFile" alt="" coords="220,54,396,79"/>
+</map>

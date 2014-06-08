@@ -1,0 +1,50 @@
+<map id="V8_FINAL&lt; kOperandKind, kNumCachedOperands &gt;" name="V8_FINAL&lt; kOperandKind, kNumCachedOperands &gt;">
+<area shape="rect" id="node3" href="$df/db2/classv8_1_1internal_1_1_l_chunk.html" title="LChunk" alt="" coords="532,1598,599,1624"/>
+<area shape="rect" id="node4" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="276,1416,366,1441"/>
+<area shape="rect" id="node34" href="$d6/d70/classv8_1_1internal_1_1_l_operand.html" title="LOperand" alt="" coords="525,1648,606,1673"/>
+<area shape="rect" id="node5" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 2, 0 \&gt;" alt="" coords="494,1697,637,1736"/>
+<area shape="rect" id="node6" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 2, 0 \&gt;" alt="" coords="494,1760,637,1798"/>
+<area shape="rect" id="node7" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 1, 0 \&gt;" alt="" coords="494,1822,637,1861"/>
+<area shape="rect" id="node8" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 1, 0 \&gt;" alt="" coords="494,1885,637,1924"/>
+<area shape="rect" id="node9" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 0, 0 \&gt;" alt="" coords="250,2302,393,2341"/>
+<area shape="rect" id="node30" href="$d5/d52/classv8_1_1internal_1_1_l_gap.html" title="LGap" alt="" coords="538,2720,592,2745"/>
+<area shape="rect" id="node10" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 0, 1 \&gt;" alt="" coords="499,2769,632,2808"/>
+<area shape="rect" id="node11" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 1, 0 \&gt;" alt="" coords="499,2832,632,2870"/>
+<area shape="rect" id="node12" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 2, 1 \&gt;" alt="" coords="494,2894,637,2933"/>
+<area shape="rect" id="node13" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 1, 1 \&gt;" alt="" coords="494,2957,637,2996"/>
+<area shape="rect" id="node14" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 3, 0 \&gt;" alt="" coords="494,3020,637,3058"/>
+<area shape="rect" id="node15" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 1, 1 \&gt;" alt="" coords="494,3082,637,3121"/>
+<area shape="rect" id="node16" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 2, 2 \&gt;" alt="" coords="494,3145,637,3184"/>
+<area shape="rect" id="node17" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 4, 0 \&gt;" alt="" coords="494,3208,637,3246"/>
+<area shape="rect" id="node18" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 3, 0 \&gt;" alt="" coords="494,3270,637,3309"/>
+<area shape="rect" id="node19" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 0, 2, 1 \&gt;" alt="" coords="494,3333,637,3372"/>
+<area shape="rect" id="node20" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 1, 2 \&gt;" alt="" coords="494,3396,637,3434"/>
+<area shape="rect" id="node21" href="$d5/d57/classv8_1_1internal_1_1_l_template_result_instruction.html" title="LTemplateResultInstruction\&lt; 1 \&gt;" alt="" coords="460,3458,671,3484"/>
+<area shape="rect" id="node22" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 0, 0 \&gt;" alt="" coords="494,3508,637,3546"/>
+<area shape="rect" id="node23" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 4, 0 \&gt;" alt="" coords="494,3570,637,3609"/>
+<area shape="rect" id="node24" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 0, 1 \&gt;" alt="" coords="494,3633,637,3672"/>
+<area shape="rect" id="node25" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 1, 2 \&gt;" alt="" coords="499,3696,632,3734"/>
+<area shape="rect" id="node26" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 3, 0 \&gt;" alt="" coords="499,3758,632,3797"/>
+<area shape="rect" id="node27" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 1, 1 \&gt;" alt="" coords="499,3821,632,3860"/>
+<area shape="rect" id="node28" href="$dc/d66/classv8_1_1internal_1_1_l_control_instruction.html" title="LControlInstruction\l\&lt; 2, 0 \&gt;" alt="" coords="499,3884,632,3922"/>
+<area shape="rect" id="node29" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 1, 3 \&gt;" alt="" coords="494,3946,637,3985"/>
+<area shape="rect" id="node31" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 2, 2 \&gt;" alt="" coords="494,4009,637,4048"/>
+<area shape="rect" id="node32" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 2, 3 \&gt;" alt="" coords="494,4072,637,4110"/>
+<area shape="rect" id="node33" href="$d8/d8c/classv8_1_1internal_1_1_call_wrapper.html" title="CallWrapper" alt="" coords="518,4134,613,4160"/>
+<area shape="rect" id="node35" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="528,4184,603,4209"/>
+<area shape="rect" id="node36" href="$dd/da8/classv8_1_1internal_1_1_ast_context.html" title="AstContext" alt="" coords="522,4233,609,4258"/>
+<area shape="rect" id="node37" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 2 \&gt;" alt="" coords="477,4282,654,4308"/>
+<area shape="rect" id="node38" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 4 \&gt;" alt="" coords="477,4332,654,4357"/>
+<area shape="rect" id="node39" href="$d2/db3/classv8_1_1internal_1_1_h_unary_operation.html" title="HUnaryOperation" alt="" coords="503,4553,628,4578"/>
+<area shape="rect" id="node40" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 1 \&gt;" alt="" coords="233,4442,410,4468"/>
+<area shape="rect" id="node41" href="$d8/d11/classv8_1_1internal_1_1_h_materialized_literal.html" title="HMaterializedLiteral\&lt; 1 \&gt;" alt="" coords="481,4602,650,4628"/>
+<area shape="rect" id="node42" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 3 \&gt;" alt="" coords="6,4725,183,4750"/>
+<area shape="rect" id="node43" href="$d8/d35/classv8_1_1internal_1_1_h_binary_operation.html" title="HBinaryOperation" alt="" coords="258,4884,385,4909"/>
+<area shape="rect" id="node47" href="$db/dba/classv8_1_1internal_1_1_h_bitwise_binary_operation.html" title="HBitwiseBinaryOperation" alt="" coords="481,4970,650,4996"/>
+<area shape="rect" id="node48" href="$d1/d1a/classv8_1_1internal_1_1_h_arithmetic_binary_operation.html" title="HArithmeticBinaryOperation" alt="" coords="472,5020,659,5045"/>
+<area shape="rect" id="node44" href="$d5/d40/classv8_1_1internal_1_1_array_instruction_interface.html" title="ArrayInstructionInterface" alt="" coords="482,5069,649,5094"/>
+<area shape="rect" id="node45" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 0 \&gt;" alt="" coords="477,5118,654,5144"/>
+<area shape="rect" id="node46" href="$d6/d9f/classv8_1_1internal_1_1_h_unary_call.html" title="HUnaryCall" alt="" coords="521,5168,610,5193"/>
+<area shape="rect" id="node49" href="$d8/de1/classv8_1_1internal_1_1_h_unary_control_instruction.html" title="HUnaryControlInstruction" alt="" coords="480,5217,651,5242"/>
+<area shape="rect" id="node50" href="$d2/d0e/classv8_1_1internal_1_1_h_dematerialized_object.html" title="HDematerializedObject" alt="" coords="486,5266,645,5292"/>
+</map>

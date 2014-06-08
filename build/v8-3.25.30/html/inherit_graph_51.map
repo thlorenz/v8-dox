@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; BasicPolicy,\l shift, size, uint32_t \&gt;" alt="" coords="5,5,184,43"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; BasicPolicy,\l 3, 1 \&gt;" alt="" coords="233,5,381,43"/>
+<area shape="rect" id="node3" href="$df/d64/classv8_1_1internal_1_1_l_unallocated_1_1_basic_policy_field.html" title="LUnallocated::BasicPolicy\lField" alt="" coords="430,5,605,43"/>
+</map>

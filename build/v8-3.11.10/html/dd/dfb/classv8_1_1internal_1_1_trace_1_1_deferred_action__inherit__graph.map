@@ -1,0 +1,6 @@
+<map id="Trace::DeferredAction" name="Trace::DeferredAction">
+<area shape="rect" id="node2" href="$d0/d3f/classv8_1_1internal_1_1_trace_1_1_deferred_capture.html" title="DeferredCapture" alt="" coords="5,81,125,106"/>
+<area shape="rect" id="node3" href="$d2/d5d/classv8_1_1internal_1_1_trace_1_1_deferred_clear_captures.html" title="DeferredClearCaptures" alt="" coords="150,81,308,106"/>
+<area shape="rect" id="node4" href="$db/d90/classv8_1_1internal_1_1_trace_1_1_deferred_increment_register.html" title="DeferredIncrementRegister" alt="" coords="333,81,515,106"/>
+<area shape="rect" id="node5" href="$d6/d87/classv8_1_1internal_1_1_trace_1_1_deferred_set_register.html" title="DeferredSetRegister" alt="" coords="539,81,681,106"/>
+</map>

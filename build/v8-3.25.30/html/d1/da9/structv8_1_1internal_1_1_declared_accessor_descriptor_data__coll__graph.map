@@ -1,0 +1,7 @@
+<map id="DeclaredAccessorDescriptorData" name="DeclaredAccessorDescriptorData">
+<area shape="rect" id="node2" href="$dd/db7/structv8_1_1internal_1_1_object_derefence_descriptor.html" title="ObjectDerefenceDescriptor" alt="" coords="6,9,188,34"/>
+<area shape="rect" id="node3" href="$d5/d5c/structv8_1_1internal_1_1_primitive_value_descriptor.html" title="PrimitiveValueDescriptor" alt="" coords="14,58,180,83"/>
+<area shape="rect" id="node4" href="$da/d9f/structv8_1_1internal_1_1_pointer_compare_descriptor.html" title="PointerCompareDescriptor" alt="" coords="8,107,187,133"/>
+<area shape="rect" id="node5" href="$d4/d13/structv8_1_1internal_1_1_bitmask_compare_descriptor.html" title="BitmaskCompareDescriptor" alt="" coords="5,157,190,182"/>
+<area shape="rect" id="node6" href="$d1/d05/structv8_1_1internal_1_1_pointer_shift_descriptor.html" title="PointerShiftDescriptor" alt="" coords="22,206,173,231"/>
+</map>

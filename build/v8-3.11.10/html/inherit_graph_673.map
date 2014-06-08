@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d1e/classv8_1_1_stack_frame.html" title="StackFrame" alt="" coords="5,54,99,79"/>
+<area shape="rect" id="node2" href="$d6/db7/classv8_1_1internal_1_1_entry_frame.html" title="EntryFrame" alt="" coords="159,5,249,30"/>
+<area shape="rect" id="node4" href="$df/dda/classv8_1_1internal_1_1_exit_frame.html" title="ExitFrame" alt="" coords="163,54,245,79"/>
+<area shape="rect" id="node5" href="$d5/db1/classv8_1_1internal_1_1_standard_frame.html" title="StandardFrame" alt="" coords="147,103,261,129"/>
+<area shape="rect" id="node3" href="$df/d1d/classv8_1_1internal_1_1_entry_construct_frame.html" title="EntryConstructFrame" alt="" coords="310,5,458,30"/>
+<area shape="rect" id="node6" href="$d8/d05/classv8_1_1internal_1_1_internal_frame.html" title="InternalFrame" alt="" coords="332,54,436,79"/>
+<area shape="rect" id="node8" href="$da/d23/classv8_1_1internal_1_1_java_script_frame.html" title="JavaScriptFrame" alt="" coords="323,103,445,129"/>
+<area shape="rect" id="node7" href="$da/d62/classv8_1_1internal_1_1_construct_frame.html" title="ConstructFrame" alt="" coords="534,54,650,79"/>
+<area shape="rect" id="node9" href="$d6/dbb/classv8_1_1internal_1_1_arguments_adaptor_frame.html" title="ArgumentsAdaptorFrame" alt="" coords="506,103,678,129"/>
+<area shape="rect" id="node10" href="$db/da4/classv8_1_1internal_1_1_optimized_frame.html" title="OptimizedFrame" alt="" coords="532,153,652,178"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Declaration" name="Declaration">
+<area shape="rect" id="node4" href="$d2/d24/classv8_1_1internal_1_1_export_declaration.html" title="ExportDeclaration" alt="" coords="410,5,537,30"/>
+<area shape="rect" id="node5" href="$d7/dc9/classv8_1_1internal_1_1_function_declaration.html" title="FunctionDeclaration" alt="" coords="403,54,543,79"/>
+<area shape="rect" id="node6" href="$de/d6e/classv8_1_1internal_1_1_import_declaration.html" title="ImportDeclaration" alt="" coords="410,103,537,129"/>
+<area shape="rect" id="node7" href="$d9/db6/classv8_1_1internal_1_1_module_declaration.html" title="ModuleDeclaration" alt="" coords="407,153,540,178"/>
+<area shape="rect" id="node8" href="$d1/dc9/classv8_1_1internal_1_1_variable_declaration.html" title="VariableDeclaration" alt="" coords="405,202,542,227"/>
+<area shape="rect" id="node2" href="$df/df9/classv8_1_1internal_1_1_ast_node.html" title="AstNode" alt="" coords="144,103,216,129"/>
+<area shape="rect" id="node3" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="6,103,96,129"/>
+</map>

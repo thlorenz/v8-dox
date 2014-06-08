@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/de4/classv8_1_1internal_1_1_trace_1_1_deferred_action.html" title="Trace::DeferredAction" alt="" coords="6,82,157,107"/>
+<area shape="rect" id="node2" href="$d0/d3f/classv8_1_1internal_1_1_trace_1_1_deferred_capture.html" title="Trace::DeferredCapture" alt="" coords="225,5,386,30"/>
+<area shape="rect" id="node3" href="$d2/d5d/classv8_1_1internal_1_1_trace_1_1_deferred_clear_captures.html" title="Trace::DeferredClearCaptures" alt="" coords="205,54,405,79"/>
+<area shape="rect" id="node4" href="$db/d90/classv8_1_1internal_1_1_trace_1_1_deferred_increment_register.html" title="Trace::DeferredIncrement\lRegister" alt="" coords="219,103,392,142"/>
+<area shape="rect" id="node5" href="$d6/d87/classv8_1_1internal_1_1_trace_1_1_deferred_set_register.html" title="Trace::DeferredSetRegister" alt="" coords="213,166,397,191"/>
+</map>

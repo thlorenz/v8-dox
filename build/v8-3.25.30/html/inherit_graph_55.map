@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; Code\l::Kind, shift, size,\l uint32_t \&gt;" alt="" coords="6,17,146,69"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; Code::Kind,\l 0, 4 \&gt;" alt="" coords="195,23,341,62"/>
+<area shape="rect" id="node3" href="$d6/d19/classv8_1_1internal_1_1_h_i_c_stub_1_1_kind_bits.html" title="HICStub::KindBits" alt="" coords="389,5,517,30"/>
+<area shape="rect" id="node4" href="$d8/d4a/classv8_1_1internal_1_1_i_c_stub_1_1_kind_bits.html" title="ICStub::KindBits" alt="" coords="394,54,513,79"/>
+</map>

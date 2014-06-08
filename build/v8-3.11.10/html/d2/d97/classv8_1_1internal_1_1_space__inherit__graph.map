@@ -1,0 +1,11 @@
+<map id="Space" name="Space">
+<area shape="rect" id="node3" href="$d9/dec/classv8_1_1internal_1_1_large_object_space.html" title="LargeObjectSpace" alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node4" href="$d1/d94/classv8_1_1internal_1_1_new_space.html" title="NewSpace" alt="" coords="161,155,247,181"/>
+<area shape="rect" id="node5" href="$d4/dbe/classv8_1_1internal_1_1_paged_space.html" title="PagedSpace" alt="" coords="271,155,368,181"/>
+<area shape="rect" id="node10" href="$d2/da5/classv8_1_1internal_1_1_semi_space.html" title="SemiSpace" alt="" coords="393,155,481,181"/>
+<area shape="rect" id="node2" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="224,6,299,31"/>
+<area shape="rect" id="node6" href="$d9/da5/classv8_1_1internal_1_1_fixed_space.html" title="FixedSpace" alt="" coords="219,230,311,255"/>
+<area shape="rect" id="node9" href="$df/d9d/classv8_1_1internal_1_1_old_space.html" title="OldSpace" alt="" coords="335,230,413,255"/>
+<area shape="rect" id="node7" href="$d6/d2f/classv8_1_1internal_1_1_cell_space.html" title="CellSpace" alt="" coords="171,305,252,330"/>
+<area shape="rect" id="node8" href="$d8/d27/classv8_1_1internal_1_1_map_space.html" title="MapSpace" alt="" coords="277,305,361,330"/>
+</map>

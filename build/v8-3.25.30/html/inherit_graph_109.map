@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$da/d53/classv8_1_1internal_1_1_branch_if_heap_number.html" title="BranchIfHeapNumber" alt="" coords="189,5,339,30"/>
+<area shape="rect" id="node3" href="$d2/d9e/classv8_1_1internal_1_1_branch_if_non_zero_number.html" title="BranchIfNonZeroNumber" alt="" coords="179,54,349,79"/>
+<area shape="rect" id="node4" href="$d7/d21/classv8_1_1internal_1_1_branch_if_root.html" title="BranchIfRoot" alt="" coords="214,103,314,129"/>
+<area shape="rect" id="node5" href="$df/dbd/classv8_1_1internal_1_1_branch_on_condition.html" title="BranchOnCondition" alt="" coords="195,153,333,178"/>
+<area shape="rect" id="node6" href="$de/d29/classv8_1_1internal_1_1_compare_and_branch.html" title="CompareAndBranch" alt="" coords="193,202,335,227"/>
+<area shape="rect" id="node7" href="$dc/de5/classv8_1_1internal_1_1_test_and_branch.html" title="TestAndBranch" alt="" coords="208,251,320,277"/>
+</map>

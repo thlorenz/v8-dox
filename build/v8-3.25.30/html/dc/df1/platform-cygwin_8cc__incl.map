@@ -1,0 +1,33 @@
+<map id="src/platform&#45;cygwin.cc" name="src/platform&#45;cygwin.cc">
+<area shape="rect" id="node4" href="$d6/dc6/semaphore_8h.html" title="semaphore.h" alt="" coords="1250,393,1349,418"/>
+<area shape="rect" id="node13" href="$df/d6a/src_2v8_8h.html" title="v8.h" alt="" coords="1407,81,1453,106"/>
+<area shape="rect" id="node20" href="$de/d03/platform_8h.html" title="platform.h" alt="" coords="1473,318,1553,343"/>
+<area shape="rect" id="node36" href="$d3/d9e/simulator_8h.html" title="simulator.h" alt="" coords="2090,162,2176,187"/>
+<area shape="rect" id="node37" href="$dc/d4d/v8threads_8h.html" title="v8threads.h" alt="" coords="2732,81,2823,106"/>
+<area shape="rect" id="node38" href="$dd/dd6/vm-state-inl_8h.html" title="vm&#45;state&#45;inl.h" alt="" coords="1995,81,2096,106"/>
+<area shape="rect" id="node40" href="$db/db0/win32-headers_8h.html" title="win32&#45;headers.h" alt="" coords="348,318,467,343"/>
+<area shape="rect" id="node5" href="$da/dba/lazy-instance_8h.html" title="../lazy&#45;instance.h" alt="" coords="1433,467,1553,493"/>
+<area shape="rect" id="node6" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="1580,542,1653,567"/>
+<area shape="rect" id="node7" href="$d5/da4/once_8h.html" title="once.h" alt="" coords="1463,542,1524,567"/>
+<area shape="rect" id="node14" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="818,243,920,269"/>
+<area shape="rect" id="node15" href="$dc/d9b/v8-platform_8h.html" title="../include/v8&#45;platform.h" alt="" coords="817,162,972,187"/>
+<area shape="rect" id="node16" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="1598,393,1687,418"/>
+<area shape="rect" id="node17" href="$de/db4/v8checks_8h.html" title="v8checks.h" alt="" coords="1989,318,2077,343"/>
+<area shape="rect" id="node18" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="1814,467,1903,493"/>
+<area shape="rect" id="node19" href="$d6/d64/assert-scope_8h.html" title="assert&#45;scope.h" alt="" coords="1579,243,1687,269"/>
+<area shape="rect" id="node25" href="$d8/dd3/v8utils_8h.html" title="v8utils.h" alt="" coords="1478,243,1548,269"/>
+<area shape="rect" id="node26" href="$d9/da0/flags_8h.html" title="flags.h" alt="" coords="996,162,1056,187"/>
+<area shape="rect" id="node27" href="$d4/dfe/objects-inl_8h.html" title="objects&#45;inl.h" alt="" coords="598,162,689,187"/>
+<area shape="rect" id="node28" href="$d8/d41/heap-inl_8h.html" title="heap&#45;inl.h" alt="" coords="688,243,767,269"/>
+<area shape="rect" id="node29" href="$d7/d8a/spaces-inl_8h.html" title="spaces&#45;inl.h" alt="" coords="1080,162,1172,187"/>
+<area shape="rect" id="node30" href="$dd/dbc/incremental-marking-inl_8h.html" title="incremental&#45;marking\l&#45;inl.h" alt="" coords="1197,155,1339,194"/>
+<area shape="rect" id="node31" href="$d7/d5d/mark-compact-inl_8h.html" title="mark&#45;compact&#45;inl.h" alt="" coords="1363,162,1497,187"/>
+<area shape="rect" id="node32" href="$d3/da5/log-inl_8h.html" title="log&#45;inl.h" alt="" coords="1795,162,1863,187"/>
+<area shape="rect" id="node34" href="$d4/dcd/handles-inl_8h.html" title="handles&#45;inl.h" alt="" coords="1522,162,1619,187"/>
+<area shape="rect" id="node35" href="$dd/d77/zone-inl_8h.html" title="zone&#45;inl.h" alt="" coords="931,318,1009,343"/>
+<area shape="rect" id="node22" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="1373,393,1429,418"/>
+<area shape="rect" id="node21" href="$d0/df8/mutex_8h.html" title="platform/mutex.h" alt="" coords="1453,393,1573,418"/>
+<area shape="rect" id="node33" href="$d7/d7f/log_8h.html" title="log.h" alt="" coords="1835,243,1884,269"/>
+<area shape="rect" id="node39" href="$d7/d94/vm-state_8h.html" title="vm&#45;state.h" alt="" coords="2101,318,2184,343"/>
+<area shape="rect" id="node43" href="$de/df7/time_8h.html" title="time.h" alt="" coords="1145,393,1201,418"/>
+</map>

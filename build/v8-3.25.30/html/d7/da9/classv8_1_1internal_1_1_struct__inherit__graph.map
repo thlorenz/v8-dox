@@ -1,0 +1,25 @@
+<map id="Struct" name="Struct">
+<area shape="rect" id="node5" href="$d4/d71/classv8_1_1internal_1_1_access_check_info.html" title="AccessCheckInfo" alt="" coords="543,5,668,30"/>
+<area shape="rect" id="node6" href="$d9/dc5/classv8_1_1internal_1_1_accessor_info.html" title="AccessorInfo" alt="" coords="556,54,655,79"/>
+<area shape="rect" id="node9" href="$de/d19/classv8_1_1internal_1_1_accessor_pair.html" title="AccessorPair" alt="" coords="555,103,655,129"/>
+<area shape="rect" id="node10" href="$d5/d55/classv8_1_1internal_1_1_aliased_arguments_entry.html" title="AliasedArgumentsEntry" alt="" coords="525,153,686,178"/>
+<area shape="rect" id="node11" href="$df/d6f/classv8_1_1internal_1_1_allocation_memento.html" title="AllocationMemento" alt="" coords="538,202,673,227"/>
+<area shape="rect" id="node12" href="$dd/d87/classv8_1_1internal_1_1_allocation_site.html" title="AllocationSite" alt="" coords="554,251,656,277"/>
+<area shape="rect" id="node13" href="$d7/dee/classv8_1_1internal_1_1_box.html" title="Box" alt="" coords="583,301,627,326"/>
+<area shape="rect" id="node14" href="$df/d8c/classv8_1_1internal_1_1_call_handler_info.html" title="CallHandlerInfo" alt="" coords="549,350,662,375"/>
+<area shape="rect" id="node15" href="$d2/dac/classv8_1_1internal_1_1_code_cache.html" title="CodeCache" alt="" coords="559,399,651,425"/>
+<area shape="rect" id="node16" href="$d1/d39/classv8_1_1internal_1_1_declared_accessor_descriptor.html" title="DeclaredAccessorDescriptor" alt="" coords="510,449,700,474"/>
+<area shape="rect" id="node17" href="$d5/df0/classv8_1_1internal_1_1_interceptor_info.html" title="InterceptorInfo" alt="" coords="552,498,659,523"/>
+<area shape="rect" id="node18" href="$d3/d19/classv8_1_1internal_1_1_polymorphic_code_cache.html" title="PolymorphicCodeCache" alt="" coords="523,547,688,573"/>
+<area shape="rect" id="node19" href="$d9/da4/classv8_1_1internal_1_1_script.html" title="Script" alt="" coords="578,597,633,622"/>
+<area shape="rect" id="node20" href="$d8/d05/classv8_1_1internal_1_1_signature_info.html" title="SignatureInfo" alt="" coords="555,646,656,671"/>
+<area shape="rect" id="node21" href="$d2/d43/classv8_1_1internal_1_1_template_info.html" title="TemplateInfo" alt="" coords="556,695,654,721"/>
+<area shape="rect" id="node24" href="$d5/d14/classv8_1_1internal_1_1_type_feedback_info.html" title="TypeFeedbackInfo" alt="" coords="540,745,671,770"/>
+<area shape="rect" id="node25" href="$de/df5/classv8_1_1internal_1_1_type_switch_info.html" title="TypeSwitchInfo" alt="" coords="549,794,661,819"/>
+<area shape="rect" id="node2" href="$d7/da3/classv8_1_1internal_1_1_heap_object.html" title="HeapObject" alt="" coords="265,399,357,425"/>
+<area shape="rect" id="node3" href="$d8/df0/classv8_1_1internal_1_1_object.html" title="Object" alt="" coords="155,399,215,425"/>
+<area shape="rect" id="node7" href="$dc/d62/classv8_1_1internal_1_1_declared_accessor_info.html" title="DeclaredAccessorInfo" alt="" coords="756,30,908,55"/>
+<area shape="rect" id="node8" href="$d9/dfe/classv8_1_1internal_1_1_executable_accessor_info.html" title="ExecutableAccessorInfo" alt="" coords="750,79,914,105"/>
+<area shape="rect" id="node22" href="$da/dc6/classv8_1_1internal_1_1_function_template_info.html" title="FunctionTemplateInfo" alt="" coords="758,670,906,695"/>
+<area shape="rect" id="node23" href="$d0/d60/classv8_1_1internal_1_1_object_template_info.html" title="ObjectTemplateInfo" alt="" coords="764,719,900,745"/>
+</map>

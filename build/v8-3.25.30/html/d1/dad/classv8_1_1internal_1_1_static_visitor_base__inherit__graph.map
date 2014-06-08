@@ -1,0 +1,12 @@
+<map id="StaticVisitorBase" name="StaticVisitorBase">
+<area shape="rect" id="node3" href="$d1/da3/classv8_1_1internal_1_1_static_marking_visitor.html" title="StaticMarkingVisitor\l\&lt; IncrementalMarkingMarking\lVisitor \&gt;" alt="" coords="301,6,499,58"/>
+<area shape="rect" id="node5" href="$d1/da3/classv8_1_1internal_1_1_static_marking_visitor.html" title="StaticMarkingVisitor\l\&lt; MarkCompactMarkingVisitor \&gt;" alt="" coords="294,82,506,121"/>
+<area shape="rect" id="node7" href="$d6/d5b/classv8_1_1internal_1_1_static_new_space_visitor.html" title="StaticNewSpaceVisitor\l\&lt; NewSpaceScavenger \&gt;" alt="" coords="314,145,486,183"/>
+<area shape="rect" id="node9" href="$d4/d56/classv8_1_1internal_1_1_scavenging_visitor.html" title="ScavengingVisitor\&lt;\l marks_handling, logging\l_and_profiling_mode \&gt;" alt="" coords="315,207,485,259"/>
+<area shape="rect" id="node10" href="$d1/da3/classv8_1_1internal_1_1_static_marking_visitor.html" title="StaticMarkingVisitor\l\&lt; StaticVisitor \&gt;" alt="" coords="331,283,469,322"/>
+<area shape="rect" id="node11" href="$d6/d5b/classv8_1_1internal_1_1_static_new_space_visitor.html" title="StaticNewSpaceVisitor\l\&lt; StaticVisitor \&gt;" alt="" coords="322,346,478,385"/>
+<area shape="rect" id="node2" href="$d6/da4/classv8_1_1internal_1_1_all_static.html" title="AllStatic" alt="" coords="5,186,75,211"/>
+<area shape="rect" id="node4" href="$da/def/classv8_1_1internal_1_1_incremental_marking_marking_visitor.html" title="IncrementalMarkingMarking\lVisitor" alt="" coords="556,13,742,51"/>
+<area shape="rect" id="node6" href="$d4/dbf/classv8_1_1internal_1_1_mark_compact_marking_visitor.html" title="MarkCompactMarkingVisitor" alt="" coords="555,89,744,114"/>
+<area shape="rect" id="node8" href="$d8/dbe/classv8_1_1internal_1_1_new_space_scavenger.html" title="NewSpaceScavenger" alt="" coords="575,151,724,177"/>
+</map>

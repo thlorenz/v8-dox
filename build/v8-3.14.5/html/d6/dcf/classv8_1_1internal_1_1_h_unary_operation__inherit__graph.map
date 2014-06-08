@@ -1,0 +1,33 @@
+<map id="HUnaryOperation" name="HUnaryOperation">
+<area shape="rect" id="node6" href="$dd/d57/classv8_1_1internal_1_1_h_arguments_length.html" title="HArgumentsLength" alt="" coords="821,5,957,30"/>
+<area shape="rect" id="node7" href="$df/da5/classv8_1_1internal_1_1_h_bit_not.html" title="HBitNot" alt="" coords="856,54,923,79"/>
+<area shape="rect" id="node8" href="$d0/df5/classv8_1_1internal_1_1_h_change.html" title="HChange" alt="" coords="850,103,928,129"/>
+<area shape="rect" id="node9" href="$d5/d82/classv8_1_1internal_1_1_h_check_function.html" title="HCheckFunction" alt="" coords="829,153,949,178"/>
+<area shape="rect" id="node10" href="$df/df5/classv8_1_1internal_1_1_h_check_instance_type.html" title="HCheckInstanceType" alt="" coords="815,202,963,227"/>
+<area shape="rect" id="node11" href="$db/d2c/classv8_1_1internal_1_1_h_check_non_smi.html" title="HCheckNonSmi" alt="" coords="831,251,947,277"/>
+<area shape="rect" id="node12" href="$db/d38/classv8_1_1internal_1_1_h_check_smi.html" title="HCheckSmi" alt="" coords="843,301,935,326"/>
+<area shape="rect" id="node13" href="$dd/d61/classv8_1_1internal_1_1_h_clamp_to_uint8.html" title="HClampToUint8" alt="" coords="832,350,947,375"/>
+<area shape="rect" id="node14" href="$dc/d00/classv8_1_1internal_1_1_h_date_field.html" title="HDateField" alt="" coords="845,399,933,425"/>
+<area shape="rect" id="node15" href="$d7/daa/classv8_1_1internal_1_1_h_declare_globals.html" title="HDeclareGlobals" alt="" coords="828,449,950,474"/>
+<area shape="rect" id="node16" href="$de/d6c/classv8_1_1internal_1_1_h_elements_kind.html" title="HElementsKind" alt="" coords="833,498,946,523"/>
+<area shape="rect" id="node17" href="$db/db6/classv8_1_1internal_1_1_h_fixed_array_base_length.html" title="HFixedArrayBaseLength" alt="" coords="806,547,973,573"/>
+<area shape="rect" id="node18" href="$d1/df8/classv8_1_1internal_1_1_h_get_cached_array_index.html" title="HGetCachedArrayIndex" alt="" coords="808,597,971,622"/>
+<area shape="rect" id="node19" href="$d9/daa/classv8_1_1internal_1_1_h_global_object.html" title="HGlobalObject" alt="" coords="835,646,943,671"/>
+<area shape="rect" id="node20" href="$de/dda/classv8_1_1internal_1_1_h_global_receiver.html" title="HGlobalReceiver" alt="" coords="828,695,950,721"/>
+<area shape="rect" id="node21" href="$d7/d3a/classv8_1_1internal_1_1_h_load_context_slot.html" title="HLoadContextSlot" alt="" coords="825,745,954,770"/>
+<area shape="rect" id="node22" href="$d6/dcc/classv8_1_1internal_1_1_h_load_external_array_pointer.html" title="HLoadExternalArrayPointer" alt="" coords="798,794,981,819"/>
+<area shape="rect" id="node23" href="$d9/d7f/classv8_1_1internal_1_1_h_load_function_prototype.html" title="HLoadFunctionPrototype" alt="" coords="805,843,974,869"/>
+<area shape="rect" id="node24" href="$db/d1a/classv8_1_1internal_1_1_h_load_named_field.html" title="HLoadNamedField" alt="" coords="823,893,956,918"/>
+<area shape="rect" id="node25" href="$d6/d37/classv8_1_1internal_1_1_h_map_enum_length.html" title="HMapEnumLength" alt="" coords="823,942,956,967"/>
+<area shape="rect" id="node26" href="$d5/dc8/classv8_1_1internal_1_1_h_outer_context.html" title="HOuterContext" alt="" coords="834,991,944,1017"/>
+<area shape="rect" id="node27" href="$d0/d31/classv8_1_1internal_1_1_h_push_argument.html" title="HPushArgument" alt="" coords="830,1041,949,1066"/>
+<area shape="rect" id="node28" href="$d0/d72/classv8_1_1internal_1_1_h_store_global_cell.html" title="HStoreGlobalCell" alt="" coords="827,1090,952,1115"/>
+<area shape="rect" id="node29" href="$d3/dbd/classv8_1_1internal_1_1_h_string_length.html" title="HStringLength" alt="" coords="836,1139,943,1165"/>
+<area shape="rect" id="node30" href="$d1/d82/classv8_1_1internal_1_1_h_to_fast_properties.html" title="HToFastProperties" alt="" coords="823,1189,955,1214"/>
+<area shape="rect" id="node31" href="$d4/d5b/classv8_1_1internal_1_1_h_use_const.html" title="HUseConst" alt="" coords="845,1238,934,1263"/>
+<area shape="rect" id="node32" href="$dd/d60/classv8_1_1internal_1_1_h_value_of.html" title="HValueOf" alt="" coords="850,1287,928,1313"/>
+<area shape="rect" id="node2" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 1 \&gt;" alt="" coords="398,646,575,671"/>
+<area shape="rect" id="node3" href="$d0/d0a/classv8_1_1internal_1_1_h_instruction.html" title="HInstruction" alt="" coords="256,646,349,671"/>
+<area shape="rect" id="node4" href="$d6/d0d/classv8_1_1internal_1_1_h_value.html" title="HValue" alt="" coords="144,646,208,671"/>
+<area shape="rect" id="node5" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="6,646,96,671"/>
+</map>

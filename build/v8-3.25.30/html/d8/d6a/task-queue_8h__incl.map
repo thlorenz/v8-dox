@@ -1,0 +1,12 @@
+<map id="src/libplatform/task&#45;queue.h" name="src/libplatform/task&#45;queue.h">
+<area shape="rect" id="node3" href="$d5/d87/globals_8h.html" title="../globals.h" alt="" coords="57,393,143,418"/>
+<area shape="rect" id="node9" href="$d0/df8/mutex_8h.html" title="../platform/mutex.h" alt="" coords="137,94,268,119"/>
+<area shape="rect" id="node16" href="$d6/dc6/semaphore_8h.html" title="../platform/semaphore.h" alt="" coords="292,94,453,119"/>
+<area shape="rect" id="node4" href="$da/dc3/v8stdint_8h.html" title="../include/v8stdint.h" alt="" coords="151,467,285,493"/>
+<area shape="rect" id="node7" href="$d7/dfc/v8config_8h.html" title="v8config.h" alt="" coords="226,542,307,567"/>
+<area shape="rect" id="node10" href="$da/dba/lazy-instance_8h.html" title="../lazy&#45;instance.h" alt="" coords="202,169,323,194"/>
+<area shape="rect" id="node11" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="272,243,345,269"/>
+<area shape="rect" id="node13" href="$d5/da4/once_8h.html" title="once.h" alt="" coords="187,243,248,269"/>
+<area shape="rect" id="node14" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="171,318,263,343"/>
+<area shape="rect" id="node15" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="167,393,269,418"/>
+</map>

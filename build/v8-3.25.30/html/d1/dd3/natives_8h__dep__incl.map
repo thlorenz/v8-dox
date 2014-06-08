@@ -1,0 +1,11 @@
+<map id="src/natives.h" name="src/natives.h">
+<area shape="rect" id="node2" href="$d9/d9d/bootstrapper_8cc.html" title="src/bootstrapper.cc" alt="" coords="5,81,139,106"/>
+<area shape="rect" id="node3" href="$d7/d07/d8_8cc.html" title="src/d8.cc" alt="" coords="163,81,237,106"/>
+<area shape="rect" id="node4" href="$d2/dbf/debug_8cc.html" title="src/debug.cc" alt="" coords="261,81,357,106"/>
+<area shape="rect" id="node5" href="$da/d59/handles_8cc.html" title="src/handles.cc" alt="" coords="381,81,487,106"/>
+<area shape="rect" id="node6" href="$da/de3/heap_8cc.html" title="src/heap.cc" alt="" coords="513,81,601,106"/>
+<area shape="rect" id="node7" href="$df/d6f/mksnapshot_8cc.html" title="src/mksnapshot.cc" alt="" coords="626,81,757,106"/>
+<area shape="rect" id="node8" href="$d4/df1/serialize_8cc.html" title="src/serialize.cc" alt="" coords="782,81,889,106"/>
+<area shape="rect" id="node9" href="$d1/d23/test-log_8cc.html" title="test/cctest/test&#45;log.cc" alt="" coords="914,81,1059,106"/>
+<area shape="rect" id="node10" href="$dc/d0d/test-serialize_8cc.html" title="test/cctest/test&#45;serialize.cc" alt="" coords="1084,81,1260,106"/>
+</map>

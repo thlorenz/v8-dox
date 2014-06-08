@@ -1,0 +1,6 @@
+<map id="ChoiceNode" name="ChoiceNode">
+<area shape="rect" id="node2" href="$d6/d12/classv8_1_1internal_1_1_reg_exp_node.html" title="RegExpNode" alt="" coords="4,117,104,142"/>
+<area shape="rect" id="node3" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="10,19,99,45"/>
+<area shape="rect" id="node4" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; v8::internal\l::GuardedAlternative \&gt;" alt="" coords="237,110,392,149"/>
+<area shape="rect" id="node5" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; v8::internal\l::GuardedAlternative,\l ZoneAllocationPolicy \&gt;" alt="" coords="235,6,395,58"/>
+</map>

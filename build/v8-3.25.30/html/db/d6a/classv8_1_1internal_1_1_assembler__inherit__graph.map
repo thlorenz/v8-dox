@@ -1,0 +1,6 @@
+<map id="Assembler" name="Assembler">
+<area shape="rect" id="node4" href="$d8/db1/classv8_1_1internal_1_1_macro_assembler.html" title="MacroAssembler" alt="" coords="5,230,125,255"/>
+<area shape="rect" id="node5" href="$d4/d21/classv8_1_1internal_1_1_patching_assembler.html" title="PatchingAssembler" alt="" coords="151,230,287,255"/>
+<area shape="rect" id="node2" href="$d3/d82/classv8_1_1internal_1_1_assembler_base.html" title="AssemblerBase" alt="" coords="8,81,123,106"/>
+<area shape="rect" id="node3" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="28,6,103,31"/>
+</map>

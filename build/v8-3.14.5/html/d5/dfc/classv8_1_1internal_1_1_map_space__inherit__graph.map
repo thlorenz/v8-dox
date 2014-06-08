@@ -1,0 +1,6 @@
+<map id="MapSpace" name="MapSpace">
+<area shape="rect" id="node2" href="$d9/da5/classv8_1_1internal_1_1_fixed_space.html" title="FixedSpace" alt="" coords="7,230,99,255"/>
+<area shape="rect" id="node3" href="$d4/dbe/classv8_1_1internal_1_1_paged_space.html" title="PagedSpace" alt="" coords="4,155,101,181"/>
+<area shape="rect" id="node4" href="$d4/de3/classv8_1_1internal_1_1_space.html" title="Space" alt="" coords="24,81,83,106"/>
+<area shape="rect" id="node5" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="16,6,91,31"/>
+</map>

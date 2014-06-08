@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/da9/classv8_1_1_extension.html" title="Extension" alt="" coords="5,178,85,203"/>
+<area shape="rect" id="node2" href="$d1/d6a/classv8_1_1internal_1_1_externalize_string_extension.html" title="ExternalizeStringExtension" alt="" coords="134,5,314,30"/>
+<area shape="rect" id="node3" href="$d1/d63/classv8_1_1internal_1_1_free_buffer_extension.html" title="FreeBufferExtension" alt="" coords="153,54,295,79"/>
+<area shape="rect" id="node4" href="$d3/daf/classv8_1_1internal_1_1_g_c_extension.html" title="GCExtension" alt="" coords="174,103,274,129"/>
+<area shape="rect" id="node5" href="$d7/daa/classv8_1_1internal_1_1_print_extension.html" title="PrintExtension" alt="" coords="170,153,278,178"/>
+<area shape="rect" id="node6" href="$df/ddf/classv8_1_1internal_1_1_profiler_extension.html" title="ProfilerExtension" alt="" coords="163,202,285,227"/>
+<area shape="rect" id="node7" href="$db/dfd/classv8_1_1internal_1_1_statistics_extension.html" title="StatisticsExtension" alt="" coords="157,251,291,277"/>
+<area shape="rect" id="node8" href="$d1/d70/classv8_1_1internal_1_1_trace_extension.html" title="TraceExtension" alt="" coords="167,301,281,326"/>
+<area shape="rect" id="node9" href="$d8/d12/classv8_1_1internal_1_1_trigger_failure_extension.html" title="TriggerFailureExtension" alt="" coords="143,350,305,375"/>
+</map>

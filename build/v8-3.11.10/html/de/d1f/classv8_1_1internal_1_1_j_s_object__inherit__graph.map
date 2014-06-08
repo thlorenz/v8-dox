@@ -1,0 +1,20 @@
+<map id="JSObject" name="JSObject">
+<area shape="rect" id="node6" href="$d2/d4f/classv8_1_1internal_1_1_global_object.html" title="GlobalObject" alt="" coords="685,55,784,81"/>
+<area shape="rect" id="node9" href="$da/dc0/classv8_1_1internal_1_1_j_s_array.html" title="JSArray" alt="" coords="700,105,769,130"/>
+<area shape="rect" id="node11" href="$d1/d52/classv8_1_1internal_1_1_j_s_date.html" title="JSDate" alt="" coords="702,154,767,179"/>
+<area shape="rect" id="node12" href="$d0/d2c/classv8_1_1internal_1_1_j_s_function.html" title="JSFunction" alt="" coords="691,203,779,229"/>
+<area shape="rect" id="node13" href="$d2/d0f/classv8_1_1internal_1_1_j_s_global_proxy.html" title="JSGlobalProxy" alt="" coords="680,253,789,278"/>
+<area shape="rect" id="node14" href="$d0/d64/classv8_1_1internal_1_1_j_s_map.html" title="JSMap" alt="" coords="703,302,766,327"/>
+<area shape="rect" id="node15" href="$d8/dfa/classv8_1_1internal_1_1_j_s_message_object.html" title="JSMessageObject" alt="" coords="670,351,799,377"/>
+<area shape="rect" id="node16" href="$d5/d6f/classv8_1_1internal_1_1_j_s_module.html" title="JSModule" alt="" coords="694,401,775,426"/>
+<area shape="rect" id="node17" href="$d9/d2b/classv8_1_1internal_1_1_j_s_reg_exp.html" title="JSRegExp" alt="" coords="693,450,777,475"/>
+<area shape="rect" id="node18" href="$d8/d90/classv8_1_1internal_1_1_j_s_set.html" title="JSSet" alt="" coords="706,499,763,525"/>
+<area shape="rect" id="node19" href="$d2/dfc/classv8_1_1internal_1_1_j_s_value.html" title="JSValue" alt="" coords="700,549,770,574"/>
+<area shape="rect" id="node20" href="$de/d8c/classv8_1_1internal_1_1_j_s_weak_map.html" title="JSWeakMap" alt="" coords="686,598,783,623"/>
+<area shape="rect" id="node2" href="$d8/dac/classv8_1_1internal_1_1_j_s_receiver.html" title="JSReceiver" alt="" coords="406,327,495,353"/>
+<area shape="rect" id="node3" href="$d7/da3/classv8_1_1internal_1_1_heap_object.html" title="HeapObject" alt="" coords="265,327,357,353"/>
+<area shape="rect" id="node4" href="$d8/df0/classv8_1_1internal_1_1_object.html" title="Object" alt="" coords="155,327,215,353"/>
+<area shape="rect" id="node7" href="$de/ddf/classv8_1_1internal_1_1_j_s_builtins_object.html" title="JSBuiltinsObject" alt="" coords="850,6,969,31"/>
+<area shape="rect" id="node8" href="$d5/d4f/classv8_1_1internal_1_1_j_s_global_object.html" title="JSGlobalObject" alt="" coords="852,55,966,81"/>
+<area shape="rect" id="node10" href="$d2/df8/classv8_1_1internal_1_1_j_s_reg_exp_result.html" title="JSRegExpResult" alt="" coords="848,105,970,130"/>
+</map>

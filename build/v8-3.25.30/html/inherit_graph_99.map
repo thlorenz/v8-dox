@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; unsigned,\l shift, size, uint32_t \&gt;" alt="" coords="5,162,171,201"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l 0, 5 \&gt;" alt="" coords="252,5,388,43"/>
+<area shape="rect" id="node3" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l 1, 30&#45;1 \&gt;" alt="" coords="252,67,388,106"/>
+<area shape="rect" id="node5" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l 2, 32&#45;2 \&gt;" alt="" coords="252,130,388,169"/>
+<area shape="rect" id="node6" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l 4, 18 \&gt;" alt="" coords="252,193,388,231"/>
+<area shape="rect" id="node8" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l kDeoptIndexBits, kArguments\lFieldBits \&gt;" alt="" coords="220,255,420,307"/>
+<area shape="rect" id="node10" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; unsigned,\l kKindWidth, kIndexWidth \&gt;" alt="" coords="228,331,412,370"/>
+<area shape="rect" id="node4" href="$da/d16/classv8_1_1internal_1_1_full_code_generator_1_1_pc_field.html" title="FullCodeGenerator::\lPcField" alt="" coords="496,67,638,106"/>
+<area shape="rect" id="node7" href="$d7/dbb/classv8_1_1internal_1_1_l_unallocated_1_1_virtual_register_field.html" title="LUnallocated::VirtualRegister\lField" alt="" coords="470,193,664,231"/>
+<area shape="rect" id="node9" href="$d1/d5c/classv8_1_1internal_1_1_b_a_s_e___e_m_b_e_d_d_e_d_1_1_arguments_field.html" title="BASE_EMBEDDED\&lt; Visitor\l \&gt;::ArgumentsField" alt="" coords="473,262,661,301"/>
+<area shape="rect" id="node11" href="$d0/d44/classv8_1_1internal_1_1_b_a_s_e___e_m_b_e_d_d_e_d_1_1_index_field.html" title="BASE_EMBEDDED\&lt; Visitor\l \&gt;::IndexField" alt="" coords="473,331,661,370"/>
+</map>

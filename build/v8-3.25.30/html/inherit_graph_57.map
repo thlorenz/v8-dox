@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; ElementsKind,\l shift, size, uint32_t \&gt;" alt="" coords="6,130,199,169"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; ElementsKind,\l 0, 15 \&gt;" alt="" coords="266,5,430,43"/>
+<area shape="rect" id="node4" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; ElementsKind,\l 0, 3 \&gt;" alt="" coords="266,67,430,106"/>
+<area shape="rect" id="node5" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; ElementsKind,\l 0, 8 \&gt;" alt="" coords="266,130,430,169"/>
+<area shape="rect" id="node6" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; ElementsKind,\l 8, 8 \&gt;" alt="" coords="266,193,430,231"/>
+<area shape="rect" id="node7" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; ElementsKind,\l kStartElementsKind, kBitsFor\lElementsKind \&gt;" alt="" coords="249,255,447,307"/>
+<area shape="rect" id="node3" href="$d9/d80/classv8_1_1internal_1_1_allocation_site_1_1_elements_kind_bits.html" title="AllocationSite::Elements\lKindBits" alt="" coords="496,5,661,43"/>
+</map>

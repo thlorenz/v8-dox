@@ -1,0 +1,22 @@
+<map id="src/optimizing&#45;compiler&#45;thread.h" name="src/optimizing&#45;compiler&#45;thread.h">
+<area shape="rect" id="node2" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="272,393,364,418"/>
+<area shape="rect" id="node10" href="$d9/da0/flags_8h.html" title="flags.h" alt="" coords="49,94,109,119"/>
+<area shape="rect" id="node12" href="$da/d23/list_8h.html" title="list.h" alt="" coords="802,94,850,119"/>
+<area shape="rect" id="node20" href="$de/d03/platform_8h.html" title="platform.h" alt="" coords="527,94,608,119"/>
+<area shape="rect" id="node22" href="$d0/df8/mutex_8h.html" title="platform/mutex.h" alt="" coords="213,169,333,194"/>
+<area shape="rect" id="node27" href="$de/df7/time_8h.html" title="platform/time.h" alt="" coords="917,94,1026,119"/>
+<area shape="rect" id="node29" href="$d5/d4f/unbound-queue-inl_8h.html" title="unbound&#45;queue&#45;inl.h" alt="" coords="728,169,870,194"/>
+<area shape="rect" id="node3" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="284,467,386,493"/>
+<area shape="rect" id="node9" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="497,467,572,493"/>
+<area shape="rect" id="node4" href="$da/dc3/v8stdint_8h.html" title="v8stdint.h" alt="" coords="420,542,498,567"/>
+<area shape="rect" id="node7" href="$d7/dfc/v8config_8h.html" title="v8config.h" alt="" coords="467,617,548,642"/>
+<area shape="rect" id="node11" href="$d1/d2e/flag-definitions_8h.html" title="flag&#45;definitions.h" alt="" coords="20,169,138,194"/>
+<area shape="rect" id="node13" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="756,243,812,269"/>
+<area shape="rect" id="node18" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="947,318,1036,343"/>
+<area shape="rect" id="node19" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="423,318,496,343"/>
+<area shape="rect" id="node25" href="$d6/dc6/semaphore_8h.html" title="platform/semaphore.h" alt="" coords="357,169,508,194"/>
+<area shape="rect" id="node26" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="490,243,578,269"/>
+<area shape="rect" id="node23" href="$da/dba/lazy-instance_8h.html" title="../lazy&#45;instance.h" alt="" coords="226,243,346,269"/>
+<area shape="rect" id="node24" href="$d5/da4/once_8h.html" title="once.h" alt="" coords="270,318,332,343"/>
+<area shape="rect" id="node30" href="$de/d28/unbound-queue_8h.html" title="unbound&#45;queue.h" alt="" coords="859,243,985,269"/>
+</map>

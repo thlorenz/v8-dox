@@ -1,0 +1,7 @@
+<map id="Types&lt; Type, TypeHandle, Region &gt;" name="Types&lt; Type, TypeHandle, Region &gt;">
+<area shape="rect" id="node2" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; i::Smi \&gt;" alt="" coords="33,5,153,30"/>
+<area shape="rect" id="node3" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; i::HeapNumber \&gt;" alt="" coords="5,54,181,79"/>
+<area shape="rect" id="node4" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; i::JSObject \&gt;" alt="" coords="18,111,169,137"/>
+<area shape="rect" id="node5" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; i::Map \&gt;" alt="" coords="32,169,155,194"/>
+<area shape="rect" id="node6" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; i::JSArray \&gt;" alt="" coords="21,218,166,243"/>
+</map>

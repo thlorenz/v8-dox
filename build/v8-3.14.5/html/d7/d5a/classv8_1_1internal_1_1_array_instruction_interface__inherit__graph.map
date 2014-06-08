@@ -1,0 +1,8 @@
+<map id="ArrayInstructionInterface" name="ArrayInstructionInterface">
+<area shape="rect" id="node2" href="$d2/d49/classv8_1_1internal_1_1_h_load_keyed_fast_double_element.html" title="HLoadKeyedFastDoubleElement" alt="" coords="223,5,438,30"/>
+<area shape="rect" id="node3" href="$d0/d84/classv8_1_1internal_1_1_h_load_keyed_fast_element.html" title="HLoadKeyedFastElement" alt="" coords="244,54,417,79"/>
+<area shape="rect" id="node4" href="$dd/d7b/classv8_1_1internal_1_1_h_load_keyed_specialized_array_element.html" title="HLoadKeyedSpecializedArray\lElement" alt="" coords="231,103,430,142"/>
+<area shape="rect" id="node5" href="$d1/d78/classv8_1_1internal_1_1_h_store_keyed_fast_double_element.html" title="HStoreKeyedFastDoubleElement" alt="" coords="222,166,440,191"/>
+<area shape="rect" id="node6" href="$dc/d65/classv8_1_1internal_1_1_h_store_keyed_fast_element.html" title="HStoreKeyedFastElement" alt="" coords="243,215,418,241"/>
+<area shape="rect" id="node7" href="$da/d49/classv8_1_1internal_1_1_h_store_keyed_specialized_array_element.html" title="HStoreKeyedSpecializedArray\lElement" alt="" coords="230,265,431,303"/>
+</map>

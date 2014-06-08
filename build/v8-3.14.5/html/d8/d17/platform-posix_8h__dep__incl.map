@@ -1,0 +1,9 @@
+<map id="src/platform&#45;posix.h" name="src/platform&#45;posix.h">
+<area shape="rect" id="node2" href="$d2/dd7/platform-cygwin_8cc.html" title="src/platform&#45;cygwin.cc" alt="" coords="5,81,157,106"/>
+<area shape="rect" id="node3" href="$d2/d7b/platform-freebsd_8cc.html" title="src/platform&#45;freebsd.cc" alt="" coords="182,81,337,106"/>
+<area shape="rect" id="node4" href="$d1/d6b/platform-linux_8cc.html" title="src/platform&#45;linux.cc" alt="" coords="362,81,501,106"/>
+<area shape="rect" id="node5" href="$d0/d15/platform-macos_8cc.html" title="src/platform&#45;macos.cc" alt="" coords="525,81,676,106"/>
+<area shape="rect" id="node6" href="$d5/d8d/platform-openbsd_8cc.html" title="src/platform&#45;openbsd.cc" alt="" coords="701,81,864,106"/>
+<area shape="rect" id="node7" href="$df/d34/platform-posix_8cc.html" title="src/platform&#45;posix.cc" alt="" coords="888,81,1031,106"/>
+<area shape="rect" id="node8" href="$de/d98/platform-solaris_8cc.html" title="src/platform&#45;solaris.cc" alt="" coords="1055,81,1205,106"/>
+</map>

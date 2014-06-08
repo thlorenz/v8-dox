@@ -1,0 +1,6 @@
+<map id="FastHoleySmiElementsAccessor" name="FastHoleySmiElementsAccessor">
+<area shape="rect" id="node2" href="$d3/d47/classv8_1_1internal_1_1_fast_smi_or_object_elements_accessor.html" title="FastSmiOrObjectElementsAccessor\l\&lt; FastHoleySmiElementsAccessor,\l ElementsKindTraits\&lt; FAST_HOLEY\l_SMI_ELEMENTS \&gt; \&gt;" alt="" coords="757,5,995,70"/>
+<area shape="rect" id="node3" href="$d2/dcd/classv8_1_1internal_1_1_fast_elements_accessor.html" title="FastElementsAccessor\l\&lt; FastHoleySmiElementsAccessor,\l ElementsKindTraits\&lt; FAST_HOLEY\l_SMI_ELEMENTS \&gt;, kPointerSize \&gt;" alt="" coords="472,5,709,70"/>
+<area shape="rect" id="node4" href="$db/d74/classv8_1_1internal_1_1_elements_accessor_base.html" title="ElementsAccessorBase\l\&lt; FastHoleySmiElementsAccessor,\l ElementsKindTraits\&lt; FAST_HOLEY\l_SMI_ELEMENTS \&gt; \&gt;" alt="" coords="187,5,424,70"/>
+<area shape="rect" id="node5" href="$d9/dee/classv8_1_1internal_1_1_elements_accessor.html" title="ElementsAccessor" alt="" coords="6,25,138,50"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Object" name="Object">
+<area shape="rect" id="node4" href="$d3/d32/classv8_1_1_array.html" title="Array" alt="" coords="349,79,403,105"/>
+<area shape="rect" id="node5" href="$d5/d6e/classv8_1_1_array_buffer.html" title="ArrayBuffer" alt="" coords="332,129,420,154"/>
+<area shape="rect" id="node6" href="$da/d3d/classv8_1_1_array_buffer_view.html" title="ArrayBufferView" alt="" coords="317,178,435,203"/>
+<area shape="rect" id="node18" href="$d9/d73/classv8_1_1_boolean_object.html" title="BooleanObject" alt="" coords="322,227,430,253"/>
+<area shape="rect" id="node19" href="$d4/df7/classv8_1_1_date.html" title="Date" alt="" coords="351,277,401,302"/>
+<area shape="rect" id="node20" href="$d5/d54/classv8_1_1_function.html" title="Function" alt="" coords="340,326,412,351"/>
+<area shape="rect" id="node21" href="$da/d56/classv8_1_1_number_object.html" title="NumberObject" alt="" coords="322,375,430,401"/>
+<area shape="rect" id="node22" href="$d3/d8f/classv8_1_1_promise.html" title="Promise" alt="" coords="341,425,411,450"/>
+<area shape="rect" id="node23" href="$d5/d76/classv8_1_1_promise_1_1_resolver.html" title="Resolver" alt="" coords="339,474,413,499"/>
+<area shape="rect" id="node24" href="$d8/da7/classv8_1_1_reg_exp.html" title="RegExp" alt="" coords="342,523,410,549"/>
+<area shape="rect" id="node25" href="$d9/d38/classv8_1_1_string_object.html" title="StringObject" alt="" coords="329,573,423,598"/>
+<area shape="rect" id="node26" href="$d2/dbe/classv8_1_1_symbol_object.html" title="SymbolObject" alt="" coords="324,622,428,647"/>
+<area shape="rect" id="node2" href="$dc/d0a/classv8_1_1_value.html" title="Value" alt="" coords="105,351,159,377"/>
+<area shape="rect" id="node3" href="$d1/d83/classv8_1_1_data.html" title="Data" alt="" coords="6,351,55,377"/>
+<area shape="rect" id="node7" href="$d3/df8/classv8_1_1_data_view.html" title="DataView" alt="" coords="489,154,567,179"/>
+<area shape="rect" id="node8" href="$d5/dbb/classv8_1_1_typed_array.html" title="TypedArray" alt="" coords="483,203,573,229"/>
+<area shape="rect" id="node9" href="$d6/d78/classv8_1_1_float32_array.html" title="Float32Array" alt="" coords="642,6,739,31"/>
+<area shape="rect" id="node10" href="$d2/d6f/classv8_1_1_float64_array.html" title="Float64Array" alt="" coords="642,55,739,81"/>
+<area shape="rect" id="node11" href="$df/dc3/classv8_1_1_int16_array.html" title="Int16Array" alt="" coords="649,105,732,130"/>
+<area shape="rect" id="node12" href="$da/d12/classv8_1_1_int32_array.html" title="Int32Array" alt="" coords="649,154,732,179"/>
+<area shape="rect" id="node13" href="$d3/d4f/classv8_1_1_int8_array.html" title="Int8Array" alt="" coords="653,203,728,229"/>
+<area shape="rect" id="node14" href="$d6/d9a/classv8_1_1_uint16_array.html" title="Uint16Array" alt="" coords="645,253,737,278"/>
+<area shape="rect" id="node15" href="$d2/d35/classv8_1_1_uint32_array.html" title="Uint32Array" alt="" coords="645,302,737,327"/>
+<area shape="rect" id="node16" href="$d9/d1f/classv8_1_1_uint8_array.html" title="Uint8Array" alt="" coords="649,351,733,377"/>
+<area shape="rect" id="node17" href="$d9/d36/classv8_1_1_uint8_clamped_array.html" title="Uint8ClampedArray" alt="" coords="622,401,760,426"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/dfa/classv8_1_1internal_1_1_bit_field_base.html" title="BitFieldBase\&lt; InlineCache\lState, shift, size, uint32_t \&gt;" alt="" coords="5,5,187,43"/>
+<area shape="rect" id="node2" href="$dd/dd9/classv8_1_1internal_1_1_bit_field.html" title="BitField\&lt; InlineCacheState,\l 0, 3 \&gt;" alt="" coords="235,5,418,43"/>
+<area shape="rect" id="node3" href="$d5/d69/classv8_1_1internal_1_1_code_1_1_i_c_state_field.html" title="Code::ICStateField" alt="" coords="466,11,600,37"/>
+</map>

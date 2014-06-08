@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d8c/classv8_1_1internal_1_1_call_wrapper.html" title="CallWrapper" alt="" coords="6,30,101,55"/>
+<area shape="rect" id="node2" href="$d1/d1c/classv8_1_1internal_1_1_null_call_wrapper.html" title="NullCallWrapper" alt="" coords="160,5,278,30"/>
+<area shape="rect" id="node3" href="$d6/d21/classv8_1_1internal_1_1_safepoint_generator.html" title="SafepointGenerator" alt="" coords="150,54,288,79"/>
+</map>

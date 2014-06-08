@@ -1,0 +1,12 @@
+<map id="HUnaryMathOperation" name="HUnaryMathOperation">
+<area shape="rect" id="node2" href="$d1/d61/classv8_1_1internal_1_1_h_template_instruction.html" title="HTemplateInstruction\&lt; 2 \&gt;" alt="" coords="194,326,370,351"/>
+<area shape="rect" id="node3" href="$d0/d0a/classv8_1_1internal_1_1_h_instruction.html" title="HInstruction" alt="" coords="236,249,328,274"/>
+<area shape="rect" id="node4" href="$d6/d0d/classv8_1_1internal_1_1_h_value.html" title="HValue" alt="" coords="250,171,314,197"/>
+<area shape="rect" id="node5" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="77,6,166,31"/>
+<area shape="rect" id="node6" href="$da/d3a/classv8_1_1internal_1_1_h_basic_block.html" title="HBasicBlock" alt="" coords="24,83,120,109"/>
+<area shape="rect" id="node9" href="$de/dc9/classv8_1_1internal_1_1_range.html" title="Range" alt="" coords="144,83,204,109"/>
+<area shape="rect" id="node11" href="$de/d1f/classv8_1_1internal_1_1_h_use_list_node.html" title="HUseListNode" alt="" coords="229,83,336,109"/>
+<area shape="rect" id="node7" href="$dd/d72/classv8_1_1internal_1_1_h_type.html" title="HType" alt="" coords="360,83,420,109"/>
+<area shape="rect" id="node8" href="$d2/d67/classv8_1_1internal_1_1_representation.html" title="Representation" alt="" coords="444,83,554,109"/>
+<area shape="rect" id="node10" href="$d7/d6e/classv8_1_1internal_1_1_enum_set.html" title="EnumSet\&lt; GVNFlag \&gt;" alt="" coords="580,83,733,109"/>
+</map>

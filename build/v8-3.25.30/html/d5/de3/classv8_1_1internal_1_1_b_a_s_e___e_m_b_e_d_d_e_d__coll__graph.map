@@ -1,0 +1,20 @@
+<map id="BASE_EMBEDDED&lt; Visitor &gt;" name="BASE_EMBEDDED&lt; Visitor &gt;">
+<area shape="rect" id="node2" href="$d4/dc6/classv8_1_1_try_catch.html" title="TryCatch" alt="" coords="1024,5,1099,30"/>
+<area shape="rect" id="node3" href="$d8/db1/classv8_1_1internal_1_1_macro_assembler.html" title="MacroAssembler" alt="" coords="1001,54,1122,79"/>
+<area shape="rect" id="node4" href="$df/d1b/classv8_1_1internal_1_1_assembler.html" title="Assembler" alt="" coords="793,54,877,79"/>
+<area shape="rect" id="node5" href="$d3/d82/classv8_1_1internal_1_1_assembler_base.html" title="AssemblerBase" alt="" coords="416,54,531,79"/>
+<area shape="rect" id="node6" href="$db/d67/classv8_1_1internal_1_1_malloced.html" title="Malloced" alt="" coords="279,54,353,79"/>
+<area shape="rect" id="node7" href="$da/dee/classv8_1_1internal_1_1_type_feedback_id.html" title="TypeFeedbackId" alt="" coords="413,135,533,161"/>
+<area shape="rect" id="node8" href="$d9/de9/classv8_1_1internal_1_1_l_code_gen.html" title="LCodeGen" alt="" coords="1018,183,1104,209"/>
+<area shape="rect" id="node10" href="$d8/df0/classv8_1_1internal_1_1_object.html" title="Object" alt="" coords="158,286,218,311"/>
+<area shape="rect" id="node20" href="$d7/da3/classv8_1_1internal_1_1_heap_object.html" title="HeapObject" alt="" coords="270,315,362,341"/>
+<area shape="rect" id="node12" href="$de/d50/classv8_1_1internal_1_1_compilation_info.html" title="CompilationInfo" alt="" coords="1004,365,1118,390"/>
+<area shape="rect" id="node13" href="$de/deb/classv8_1_1_local.html" title="Local\&lt; Object \&gt;" alt="" coords="1004,414,1119,439"/>
+<area shape="rect" id="node14" href="$d3/dd5/classv8_1_1_handle.html" title="Handle\&lt; Object \&gt;" alt="" coords="772,410,897,435"/>
+<area shape="rect" id="node15" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; v8::internal\l::LInstruction * \&gt;" alt="" coords="987,463,1136,502"/>
+<area shape="rect" id="node16" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; v8::internal\l::LInstruction *, ZoneAllocation\lPolicy \&gt;" alt="" coords="734,459,936,511"/>
+<area shape="rect" id="node17" href="$d4/d72/classv8_1_1internal_1_1_context.html" title="Context" alt="" coords="1028,315,1095,341"/>
+<area shape="rect" id="node18" href="$dc/d95/classv8_1_1internal_1_1_fixed_array.html" title="FixedArray" alt="" coords="792,315,878,341"/>
+<area shape="rect" id="node19" href="$dd/d33/classv8_1_1internal_1_1_fixed_array_base.html" title="FixedArrayBase" alt="" coords="415,315,531,341"/>
+<area shape="rect" id="node21" href="$d5/dcb/classv8_1_1internal_1_1_thread_id.html" title="ThreadId" alt="" coords="1024,526,1099,551"/>
+</map>

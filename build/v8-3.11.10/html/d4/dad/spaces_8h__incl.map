@@ -1,0 +1,28 @@
+<map id="src/spaces.h" name="src/spaces.h">
+<area shape="rect" id="node2" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="368,454,456,479"/>
+<area shape="rect" id="node8" href="$d6/df3/hashmap_8h.html" title="hashmap.h" alt="" coords="639,305,725,330"/>
+<area shape="rect" id="node14" href="$da/d23/list_8h.html" title="list.h" alt="" coords="801,305,849,330"/>
+<area shape="rect" id="node15" href="$d7/d7f/log_8h.html" title="log.h" alt="" coords="594,81,643,106"/>
+<area shape="rect" id="node3" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="615,529,689,554"/>
+<area shape="rect" id="node4" href="$da/dc3/v8stdint_8h.html" title="../include/v8stdint.h" alt="" coords="790,603,924,629"/>
+<area shape="rect" id="node9" href="$d5/d16/checks_8h.html" title="checks.h" alt="" coords="911,454,984,479"/>
+<area shape="rect" id="node11" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="675,379,731,405"/>
+<area shape="rect" id="node16" href="$df/d91/objects_8h.html" title="objects.h" alt="" coords="581,155,656,181"/>
+<area shape="rect" id="node28" href="$de/d03/platform_8h.html" title="platform.h" alt="" coords="1096,230,1176,255"/>
+<area shape="rect" id="node34" href="$d0/d85/log-utils_8h.html" title="log&#45;utils.h" alt="" coords="286,155,364,181"/>
+<area shape="rect" id="node17" href="$d7/d41/builtins_8h.html" title="builtins.h" alt="" coords="656,230,729,255"/>
+<area shape="rect" id="node18" href="$dc/de3/elements-kind_8h.html" title="elements&#45;kind.h" alt="" coords="856,230,971,255"/>
+<area shape="rect" id="node19" href="$de/db4/v8checks_8h.html" title="v8checks.h" alt="" coords="873,305,961,330"/>
+<area shape="rect" id="node20" href="$d5/d43/property-details_8h.html" title="property&#45;details.h" alt="" coords="491,305,615,330"/>
+<area shape="rect" id="node22" href="$dc/d68/smart-array-pointer_8h.html" title="smart&#45;array&#45;pointer.h" alt="" coords="351,230,496,255"/>
+<area shape="rect" id="node23" href="$d3/d37/unicode-inl_8h.html" title="unicode&#45;inl.h" alt="" coords="162,230,259,255"/>
+<area shape="rect" id="node26" href="$db/d9c/zone_8h.html" title="zone.h" alt="" coords="520,230,581,255"/>
+<area shape="rect" id="node21" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="806,529,908,554"/>
+<area shape="rect" id="node24" href="$dd/d90/unicode_8h.html" title="unicode.h" alt="" coords="150,305,228,330"/>
+<area shape="rect" id="node27" href="$d7/d53/splay-tree_8h.html" title="splay&#45;tree.h" alt="" coords="408,379,499,405"/>
+<area shape="rect" id="node29" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="1117,454,1209,479"/>
+<area shape="rect" id="node30" href="$da/dba/lazy-instance_8h.html" title="lazy&#45;instance.h" alt="" coords="1260,305,1369,330"/>
+<area shape="rect" id="node32" href="$dc/ddd/platform-tls_8h.html" title="platform&#45;tls.h" alt="" coords="1087,305,1184,330"/>
+<area shape="rect" id="node33" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="978,379,1067,405"/>
+<area shape="rect" id="node31" href="$d5/da4/once_8h.html" title="once.h" alt="" coords="1272,379,1333,405"/>
+</map>

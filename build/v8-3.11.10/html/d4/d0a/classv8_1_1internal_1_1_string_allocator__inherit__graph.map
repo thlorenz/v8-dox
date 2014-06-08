@@ -1,0 +1,4 @@
+<map id="StringAllocator" name="StringAllocator">
+<area shape="rect" id="node2" href="$dc/dc4/classv8_1_1internal_1_1_heap_string_allocator.html" title="HeapStringAllocator" alt="" coords="5,81,144,106"/>
+<area shape="rect" id="node3" href="$d0/d63/classv8_1_1internal_1_1_no_allocation_string_allocator.html" title="NoAllocationStringAllocator" alt="" coords="169,81,351,106"/>
+</map>

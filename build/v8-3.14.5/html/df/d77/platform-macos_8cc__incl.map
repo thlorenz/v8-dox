@@ -1,0 +1,28 @@
+<map id="src/platform&#45;macos.cc" name="src/platform&#45;macos.cc">
+<area shape="rect" id="node25" href="$df/d6a/src_2v8_8h.html" title="v8.h" alt="" coords="3146,81,3192,106"/>
+<area shape="rect" id="node33" href="$de/d03/platform_8h.html" title="platform.h" alt="" coords="3018,243,3099,269"/>
+<area shape="rect" id="node47" href="$de/d20/platform-posix_8h.html" title="platform&#45;posix.h" alt="" coords="4267,81,4383,106"/>
+<area shape="rect" id="node48" href="$dd/dd6/vm-state-inl_8h.html" title="vm&#45;state&#45;inl.h" alt="" coords="4191,162,4292,187"/>
+<area shape="rect" id="node26" href="$d8/d8f/include_2v8_8h.html" title="../include/v8.h" alt="" coords="2966,393,3068,418"/>
+<area shape="rect" id="node28" href="$d4/dce/v8globals_8h.html" title="v8globals.h" alt="" coords="2826,318,2915,343"/>
+<area shape="rect" id="node29" href="$de/db4/v8checks_8h.html" title="v8checks.h" alt="" coords="2868,162,2956,187"/>
+<area shape="rect" id="node30" href="$d0/db7/allocation_8h.html" title="allocation.h" alt="" coords="4136,393,4224,418"/>
+<area shape="rect" id="node31" href="$d8/dd3/v8utils_8h.html" title="v8utils.h" alt="" coords="2774,162,2844,187"/>
+<area shape="rect" id="node37" href="$d9/da0/flags_8h.html" title="flags.h" alt="" coords="2980,162,3040,187"/>
+<area shape="rect" id="node38" href="$d4/dfe/objects-inl_8h.html" title="objects&#45;inl.h" alt="" coords="3064,162,3156,187"/>
+<area shape="rect" id="node39" href="$d7/d8a/spaces-inl_8h.html" title="spaces&#45;inl.h" alt="" coords="3180,162,3272,187"/>
+<area shape="rect" id="node40" href="$d8/d41/heap-inl_8h.html" title="heap&#45;inl.h" alt="" coords="3975,162,4053,187"/>
+<area shape="rect" id="node41" href="$dd/dbc/incremental-marking-inl_8h.html" title="incremental&#45;marking\l&#45;inl.h" alt="" coords="3297,155,3439,194"/>
+<area shape="rect" id="node42" href="$d7/d5d/mark-compact-inl_8h.html" title="mark&#45;compact&#45;inl.h" alt="" coords="3463,162,3597,187"/>
+<area shape="rect" id="node43" href="$d3/da5/log-inl_8h.html" title="log&#45;inl.h" alt="" coords="3622,162,3689,187"/>
+<area shape="rect" id="node44" href="$df/df5/cpu-profiler-inl_8h.html" title="cpu&#45;profiler&#45;inl.h" alt="" coords="3714,162,3829,187"/>
+<area shape="rect" id="node45" href="$d4/dcd/handles-inl_8h.html" title="handles&#45;inl.h" alt="" coords="3854,162,3951,187"/>
+<area shape="rect" id="node46" href="$dd/d77/zone-inl_8h.html" title="zone&#45;inl.h" alt="" coords="2592,243,2671,269"/>
+<area shape="rect" id="node27" href="$da/dc3/v8stdint_8h.html" title="v8stdint.h" alt="" coords="2978,467,3056,493"/>
+<area shape="rect" id="node32" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="2747,318,2803,343"/>
+<area shape="rect" id="node34" href="$de/dcd/atomicops_8h.html" title="atomicops.h" alt="" coords="3196,318,3288,343"/>
+<area shape="rect" id="node35" href="$da/dba/lazy-instance_8h.html" title="lazy&#45;instance.h" alt="" coords="2940,318,3049,343"/>
+<area shape="rect" id="node36" href="$dc/ddd/platform-tls_8h.html" title="platform&#45;tls.h" alt="" coords="3073,318,3171,343"/>
+<area shape="rect" id="node49" href="$d7/d94/vm-state_8h.html" title="vm&#45;state.h" alt="" coords="4326,243,4409,269"/>
+<area shape="rect" id="node50" href="$d4/dac/runtime-profiler_8h.html" title="runtime&#45;profiler.h" alt="" coords="4181,243,4301,269"/>
+</map>

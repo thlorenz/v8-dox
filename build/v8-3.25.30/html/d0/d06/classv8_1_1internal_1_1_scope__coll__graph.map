@@ -1,0 +1,21 @@
+<map id="Scope" name="Scope">
+<area shape="rect" id="node2" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="6,209,96,234"/>
+<area shape="rect" id="node6" href="$df/df9/classv8_1_1internal_1_1_ast_node.html" title="AstNode" alt="" coords="220,145,292,170"/>
+<area shape="rect" id="node7" href="$d2/dea/classv8_1_1internal_1_1_variable.html" title="Variable" alt="" coords="423,209,492,234"/>
+<area shape="rect" id="node10" href="$de/d00/classv8_1_1internal_1_1_interface.html" title="Interface" alt="" coords="421,266,494,291"/>
+<area shape="rect" id="node13" href="$d4/dec/classv8_1_1internal_1_1_dynamic_scope_part.html" title="DynamicScopePart" alt="" coords="390,325,525,350"/>
+<area shape="rect" id="node3" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; v8::internal\l::Variable * \&gt;" alt="" coords="568,393,717,431"/>
+<area shape="rect" id="node4" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; v8::internal\l::Variable *, ZoneAllocation\lPolicy \&gt;" alt="" coords="165,371,347,423"/>
+<area shape="rect" id="node5" href="$da/ddf/classv8_1_1internal_1_1_expression.html" title="Expression" alt="" coords="599,131,686,157"/>
+<area shape="rect" id="node8" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; VariableProxy * \&gt;" alt="" coords="549,455,736,481"/>
+<area shape="rect" id="node9" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; VariableProxy\l *, ZoneAllocationPolicy \&gt;" alt="" coords="170,447,342,486"/>
+<area shape="rect" id="node11" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; v8::internal\l::Scope * \&gt;" alt="" coords="568,505,717,543"/>
+<area shape="rect" id="node12" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; v8::internal\l::Scope *, ZoneAllocationPolicy \&gt;" alt="" coords="147,510,365,549"/>
+<area shape="rect" id="node14" href="$de/d05/classv8_1_1internal_1_1_zone_list.html" title="ZoneList\&lt; v8::internal\l::Declaration * \&gt;" alt="" coords="568,567,717,606"/>
+<area shape="rect" id="node15" href="$da/df1/classv8_1_1internal_1_1_list.html" title="List\&lt; v8::internal\l::Declaration *, ZoneAllocation\lPolicy \&gt;" alt="" coords="156,573,356,625"/>
+<area shape="rect" id="node16" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; v8::internal\l::String \&gt;" alt="" coords="573,630,713,669"/>
+<area shape="rect" id="node17" href="$da/dde/classv8_1_1internal_1_1_handle.html" title="Handle\&lt; v8::internal\l::ScopeInfo \&gt;" alt="" coords="573,693,713,731"/>
+<area shape="rect" id="node18" href="$dd/d38/classv8_1_1internal_1_1_isolate.html" title="Isolate" alt="" coords="612,755,673,781"/>
+<area shape="rect" id="node19" href="$de/d69/classv8_1_1internal_1_1_variable_map.html" title="VariableMap" alt="" coords="595,805,690,830"/>
+<area shape="rect" id="node20" href="$d5/de9/classv8_1_1internal_1_1_template_hash_map_impl.html" title="ZoneHashMap" alt="" coords="202,805,310,830"/>
+</map>

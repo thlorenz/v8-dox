@@ -1,0 +1,8 @@
+<map id="CodeEventLogger" name="CodeEventLogger">
+<area shape="rect" id="node3" href="$da/db4/classv8_1_1internal_1_1_code_address_map.html" title="CodeAddressMap" alt="" coords="5,155,133,181"/>
+<area shape="rect" id="node4" href="$dd/da5/classv8_1_1internal_1_1_jit_logger.html" title="JitLogger" alt="" coords="158,155,233,181"/>
+<area shape="rect" id="node5" href="$d5/dd1/classv8_1_1internal_1_1_low_level_logger.html" title="LowLevelLogger" alt="" coords="258,155,376,181"/>
+<area shape="rect" id="node6" href="$d7/d8b/classv8_1_1internal_1_1_perf_basic_logger.html" title="PerfBasicLogger" alt="" coords="401,155,520,181"/>
+<area shape="rect" id="node7" href="$d6/d48/classv8_1_1internal_1_1_perf_jit_logger.html" title="PerfJitLogger" alt="" coords="546,155,645,181"/>
+<area shape="rect" id="node2" href="$d0/da0/classv8_1_1internal_1_1_code_event_listener.html" title="CodeEventListener" alt="" coords="250,6,384,31"/>
+</map>

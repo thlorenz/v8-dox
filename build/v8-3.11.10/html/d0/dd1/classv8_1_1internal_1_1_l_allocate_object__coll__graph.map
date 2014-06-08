@@ -1,0 +1,10 @@
+<map id="LAllocateObject" name="LAllocateObject">
+<area shape="rect" id="node2" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 0, 1 \&gt;" alt="" coords="403,194,546,233"/>
+<area shape="rect" id="node3" href="$dc/ded/classv8_1_1internal_1_1_l_instruction.html" title="LInstruction" alt="" coords="180,438,270,463"/>
+<area shape="rect" id="node8" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 0, 2 \&gt;" alt="" coords="403,545,546,583"/>
+<area shape="rect" id="node9" href="$d1/df5/classv8_1_1internal_1_1_l_template_instruction.html" title="LTemplateInstruction\l\&lt; 1, 1, 1 \&gt;" alt="" coords="403,431,546,470"/>
+<area shape="rect" id="node4" href="$d4/d5b/classv8_1_1internal_1_1_zone_object.html" title="ZoneObject" alt="" coords="6,438,96,463"/>
+<area shape="rect" id="node5" href="$d3/d09/classv8_1_1internal_1_1_embedded_container.html" title="EmbeddedContainer\&lt;\l v8::internal::LOperand\l *, T \&gt;" alt="" coords="147,19,304,71"/>
+<area shape="rect" id="node6" href="$d3/d09/classv8_1_1internal_1_1_embedded_container.html" title="EmbeddedContainer\&lt;\l v8::internal::LOperand\l *, I \&gt;" alt="" coords="147,277,304,329"/>
+<area shape="rect" id="node7" href="$d3/d09/classv8_1_1internal_1_1_embedded_container.html" title="EmbeddedContainer\&lt;\l v8::internal::LOperand\l *, R \&gt;" alt="" coords="147,353,304,405"/>
+</map>

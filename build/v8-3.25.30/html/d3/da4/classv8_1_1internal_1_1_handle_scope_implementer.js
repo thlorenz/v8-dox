@@ -1,0 +1,26 @@
+var classv8_1_1internal_1_1_handle_scope_implementer =
+[
+    [ "HandleScopeImplementer", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ad6d077790c1bfe0a77d16cd317317cc5", null ],
+    [ "~HandleScopeImplementer", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#aa94c86b6a28865fb88cc628acf220e8f", null ],
+    [ "ArchiveThread", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a7a2636cac755c77e8fe02b60e113ce40", null ],
+    [ "blocks", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ab0d80c1aa2fb97ce5e1184b338634cbe", null ],
+    [ "CallDepthIsZero", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a7b920ae253513ba15f0a0260e3e73a3e", null ],
+    [ "DecrementCallDepth", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ae162589579e92747951b9d465d3fbf13", null ],
+    [ "DeleteExtensions", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ae7070175b479c7bb46ccb2acc6f03713", null ],
+    [ "EnterContext", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#af6bcdce784563727caf36be5174e44b3", null ],
+    [ "FreeThreadResources", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#af35d78f2eb45336b65b114379e8f1067", null ],
+    [ "GetSpareOrNewBlock", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a62ab816480e4ad5abb76cb69a1a5827c", null ],
+    [ "HasSavedContexts", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#afd5c5c416fae0e874458275e9bf67c8b", null ],
+    [ "IncrementCallDepth", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a1f5a68e05fcadfef55144e64276390dc", null ],
+    [ "isolate", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a0904da91507623a44c68b72ca742d17d", null ],
+    [ "Iterate", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a0c0fe3f6c9e21fd6661a991801701ec8", null ],
+    [ "LastEnteredContext", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ad398216f72584ebf3f8e82e91c710760", null ],
+    [ "LastEnteredContextWas", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ab6e21fe5c02750197dac1e56ad839995", null ],
+    [ "LeaveContext", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#af9b960233a9cfff19307303c98027e68", null ],
+    [ "RestoreContext", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a23030f5890898a2c82fc64e2972b8ca1", null ],
+    [ "RestoreThread", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a7f4e0c0ebe2249258502958a508a9c11", null ],
+    [ "ReturnBlock", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ae89bb4576cd3ff1e3bb87b9bd927f616", null ],
+    [ "SaveContext", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#a7b34478de3823ef4a4d533983beba372", null ],
+    [ "DeferredHandles", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#abf66bd266bd1fddbc859832c4838b436", null ],
+    [ "DeferredHandleScope", "d3/da4/classv8_1_1internal_1_1_handle_scope_implementer.html#ab79a97e63b62ac3e95a40640e3e70f96", null ]
+];
