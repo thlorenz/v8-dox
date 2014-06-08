@@ -6,10 +6,15 @@
   "dependencies": {
     "nave": "^0.4.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "marked": "~0.3.2",
+    "resolve-bin": "~0.3.0",
+    "update-section": "~0.3.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./build/build.sh"
+    "start": "./build/build.sh",
+    "update-readme-section": "./build/update-readme-section.js"
   },
   "repository": {
     "type": "git",
