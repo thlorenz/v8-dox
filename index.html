@@ -5,10 +5,8 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="description" content="V8-perf : Notes and resources related to v8 and thus Node.js performance" />
-
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>V8-perf</title>
+    <title>v8-perf</title>
   </head>
 
   <body>
@@ -17,49 +15,48 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/thlorenz/v8-perf">View on GitHub</a>
-
           <h1 id="project_title">V8-perf</h1>
           <h2 id="project_tagline">Notes and resources related to v8 and thus Node.js performance</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/thlorenz/v8-perf/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/thlorenz/v8-perf/tarball/master">Download this project as a tar.gz file</a>
-            </section>
         </header>
     </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+
+<!-- START README -->
         <h1>
-<a name="v8-perf" class="anchor" href="#v8-perf"><span class="octicon octicon-link"></span></a>v8-perf</h1>
+          <a name="v8-perf" class="anchor" href="#v8-perf"><span class="octicon octicon-link"></span></a>v8-perf
+        </h1>
 
-<p>Notes and resources related to v8 and thus Node.js performance.</p>
+        <p>Notes and resources related to v8 and thus Node.js performance.</p>
 
-<ul>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/data-types.md">data types</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/compiler.md">v8 compiler</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/gc.md">v8 garbage collector</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md">performance profiling</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md">runtime functions</a></li>
-</ul><h2>
-<a name="tests" class="anchor" href="#tests"><span class="octicon octicon-link"></span></a>Tests</h2>
+        <ul>
+          <li><a href="https://github.com/thlorenz/v8-perf/blob/master/data-types.md">data types</a></li>
+          <li><a href="https://github.com/thlorenz/v8-perf/blob/master/compiler.md">v8 compiler</a></li>
+          <li><a href="https://github.com/thlorenz/v8-perf/blob/master/gc.md">v8 garbage collector</a></li>
+          <li><a href="https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md">performance profiling</a></li>
+          <li><a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md">runtime functions</a></li>
+        </ul><h2>
+        <a name="tests" class="anchor" href="#tests"><span class="octicon octicon-link"></span></a>Tests</h2>
 
-<p>Some tests were added to confirm some of the assumptions made in the docs, you can run them as follows:</p>
+        <p>Some tests were added to confirm some of the assumptions made in the docs, you can run them as follows:</p>
 
-<div class="highlight highlight-sh"><pre>git clone https://github.com/thlorenz/v8-perf.git <span class="o">&amp;&amp;</span> <span class="nb">cd </span>v8-perf
-npm install
-npm <span class="nb">test</span>
-</pre></div>
+        <div class="highlight highlight-sh"><pre>git clone https://github.com/thlorenz/v8-perf.git <span class="o">&amp;&amp;</span> <span class="nb">cd </span>v8-perf
+        npm install
+        npm <span class="nb">test</span>
+        </pre></div>
 
-<h3>
-<a name="tools-features-used-in-tests" class="anchor" href="#tools-features-used-in-tests"><span class="octicon octicon-link"></span></a>Tools, Features used in Tests</h3>
+        <h3>
+        <a name="tools-features-used-in-tests" class="anchor" href="#tools-features-used-in-tests"><span class="octicon octicon-link"></span></a>Tools, Features used in Tests</h3>
 
-<ul>
-<li>
-<a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md"><strong>runtime functions</strong></a>: via the <code>--allow-runtime-functions</code> flag, i.e. see <a href="">this test</a>
-</li>
-</ul>
+        <ul>
+          <li>
+            <a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md"><strong>runtime functions</strong></a>: via the <code>--allow-runtime-functions</code> flag, i.e. see <a href="">this test</a>
+          </li>
+        </ul>
+<!-- END README -->
+
       </section>
     </div>
 
@@ -71,17 +68,15 @@ npm <span class="nb">test</span>
       </footer>
     </div>
 
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-32151587-8");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-32151587-8");
+      pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
   </body>
 </html>
