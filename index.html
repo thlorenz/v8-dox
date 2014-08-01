@@ -4,9 +4,9 @@
   <head>
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="V8-perf : Notes and resources related to v8 and thus Node.js performance" />
+    <meta name="description" content="Doxygen generated v8 dox for each relevant Node.js version." />
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <title>v8-perf</title>
+    <title>v8-dox</title>
   </head>
 
   <body>
@@ -14,9 +14,9 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="https://github.com/thlorenz/v8-perf">View on GitHub</a>
-          <h1 id="project_title">V8-perf</h1>
-          <h2 id="project_tagline">Notes and resources related to v8 and thus Node.js performance</h2>
+          <a id="forkme_banner" href="https://github.com/thlorenz/v8-dox">View on GitHub</a>
+          <h1 id="project_title">V8-dox</h1>
+          <h2 id="project_tagline">Doxygen generated v8 dox for each relevant Node.js version.</h2>
         </header>
     </div>
 
@@ -25,51 +25,11 @@
       <section id="main_content" class="inner">
 
 <!-- START README -->
-<h1 id="v8-perf">v8-perf</h1>
-<p>Notes and resources related to v8 and thus Node.js performance.</p>
-<ul>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/data-types.md">data types</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/compiler.md">v8 compiler</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/gc.md">v8 garbage collector</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/memory-profiling.md">memory profiling</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md">performance profiling</a></li>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md">runtime functions</a></li>
-</ul>
-<h2 id="v8-source-and-documentation">v8 source and documentation</h2>
-<p>It&#39;s best to dig into the source to confirm assumptions about v8 performance first hand.</p>
-<h3 id="source">source</h3>
-<ul>
-<li><a href="https://code.google.com/p/v8/">home of v8 source code</a></li>
-<li><a href="https://code.google.com/p/v8/codesearch">v8 code search</a></li>
-<li><a href="https://github.com/v8/v8/">v8 source code mirror on github</a></li>
-</ul>
-<h3 id="documentation">documentation</h3>
-<p>Documentation for specific v8 versions generated from the v8 source and included with the
-<a href="https://thlorenz.github.io/v8-perf/">gh-pages</a> of this repo.</p>
-<p>Below is a list of the documentation along with links to the code on github and the related Node.js version.</p>
-<ul>
-<li><a href="https://thlorenz.github.io/v8-perf/build/v8-3.11.10/html/">v8 3.11.10</a> | <a href="https://github.com/v8/v8/tree/3.11.10">code</a> | <a href="https://github.com/joyent/node/tree/v0.8.26">node 0.8.26</a></li>
-<li><a href="https://thlorenz.github.io/v8-perf/build/v8-3.14.5/html/">v8 3.14.5</a>   | <a href="https://github.com/v8/v8/tree/3.14.5">code</a>  | <a href="https://github.com/joyent/node/tree/v0.10.28">node 0.10.28</a></li>
-<li><a href="https://thlorenz.github.io/v8-perf/build/v8-3.25.30/html/">v8 3.25.30</a> | <a href="https://github.com/v8/v8/tree/3.25.30">code</a> | <a href="https://github.com/joyent/node/tree/v0.11.13">node 0.11.13</a></li>
-</ul>
-<p>The documentation includes code that contains links to related code, data types, etc. which is highly useful to explore
-how the pieces fit together.</p>
-<p>In case you want to customize the documentation, checkout the <code>gh-pages</code> branch of this repo, configure the <a href="https://github.com/thlorenz/v8-perf/blob/gh-pages/build/template.doxygen">doxygen
-template</a> and run <code>npm start</code> which will
-rebuild the documentation. I&#39;m open to pull requests that improve on it. <em>Requires <a href="http://www.stack.nl/~dimitri/doxygen/download.html">doxygen</a> and <a href="http://www.graphviz.org/Download..php">graphviz</a> to be installed on your machine</em>.</p>
-<h2 id="tests">Tests</h2>
-<p>Some tests were added to confirm some of the assumptions made in the docs, you can run them as follows:</p>
-<pre><code class="lang-sh">git clone https://github.com/thlorenz/v8-perf.git &amp;&amp; cd v8-perf
-npm install
-npm test
-</code></pre>
-<h3 id="tools-features-used-in-tests">Tools, Features used in Tests</h3>
-<ul>
-<li><a href="https://github.com/thlorenz/v8-perf/blob/master/runtime-functions.md"><strong>runtime functions</strong></a>: via the <code>--allow-runtime-functions</code>
-flag, i.e. see <a href="https://github.com/thlorenz/v8-perf/blob/master/test/fast-elements.js">this test</a></li>
-</ul>
+<h1><a name="user-content-v8-dox" class="anchor" href="#v8-dox" aria-hidden="true"><span class="octicon octicon-link"></span></a>v8-dox</h1>
 
+<p>Doxygen generated v8 dox for each relevant Node.js version.</p>
 
+<p>Supports the <a href="https://github.com/thlorenz/v8-perf">v8-perf</a> repo.</p></article>
 <!-- END README -->
 
 
@@ -79,7 +39,7 @@ flag, i.e. see <a href="https://github.com/thlorenz/v8-perf/blob/master/test/fas
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">V8-perf maintained by <a href="https://github.com/thlorenz">thlorenz</a></p>
+        <p class="copyright">V8-dox maintained by <a href="https://github.com/thlorenz">thlorenz</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
