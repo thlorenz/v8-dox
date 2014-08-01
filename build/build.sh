@@ -9,10 +9,9 @@ if [ -d "$v8" ]; then
     && git clean -f -d         \
     && git checkout master     \
   )
+else
+  git clone v8 $v8
 fi
-
-#git submodule update --init
-#git submodule foreach git pull origin master
 
 cd $v8
 
@@ -55,6 +54,6 @@ do
   v8_v="${versions[$i]}"
   node_v="${versions[$i + 1]}"
 
-  echo '- [v8 __version__](https://thlorenz.github.io/v8-perf/build/v8-__version__/html/) | [code](https://github.com/v8/v8/tree/__version__) | [node __node_version__](https://github.com/joyent/node/tree/v__node_version__)' \
+  echo '- [v8 __version__](https://thlorenz.github.io/v8-dox/build/v8-__version__/html/) | [code](https://github.com/v8/v8/tree/__version__) | [node __node_version__](https://github.com/joyent/node/tree/v__node_version__)' \
     | sed "s/__version__/$v8_v/g; s/__node_version__/$node_v/g;"
 done
