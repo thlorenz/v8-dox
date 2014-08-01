@@ -1,15 +1,12 @@
 {
-  "name": "v8-perf",
+  "name": "v8-dox",
   "version": "0.0.0",
-  "description": "Page generator for v8-perf, mainly responsible for generating v8 documentation.",
+  "description": "Page generator for v8-dox, mainly responsible for generating v8 documentation.",
   "main": "index.js",
   "dependencies": {
     "nave": "^0.4.5"
   },
   "devDependencies": {
-    "marked": "~0.3.2",
-    "resolve-bin": "~0.3.0",
-    "update-section": "~0.3.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/v8-perf.git"
+    "url": "git://github.com/thlorenz/v8-dox.git"
   },
   "author": "Thorsten Lorenz <thlorenz@gmx.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thlorenz/v8-perf/issues"
+    "url": "https://github.com/thlorenz/v8-dox/issues"
   },
-  "homepage": "https://github.com/thlorenz/v8-perf"
+  "homepage": "https://github.com/thlorenz/v8-dox"
 }
